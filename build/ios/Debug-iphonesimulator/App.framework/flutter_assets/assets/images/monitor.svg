@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.65" height="19.923" viewBox="0 0 19.65 19.923">
+  <g id="Group_239" data-name="Group 239" transform="translate(-14400 -8127)">
+    <g id="_10096600341529659202" data-name="10096600341529659202" transform="translate(14399.5 8126.9)">
+      <path id="Path_192" data-name="Path 192" d="M1,0H17a1,1,0,0,1,1,1v9.69a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" transform="translate(1.5 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.2"/>
+      <line id="Line_15" data-name="Line 15" y2="2.733" transform="translate(10.468 12.69)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <path id="Path_153" data-name="Path 153" d="M6.5,22.589l3.44-3.44a.8.8,0,0,1,1.133,0l3.44,3.44" transform="translate(-0.007 -3.414)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <path id="Path_154" data-name="Path 154" d="M.5,7.705H4.923a.39.39,0,0,0,.359-.24l.692-1.659a.386.386,0,0,1,.722.014L8,9.3a.386.386,0,0,0,.707.048L10.324,6.3A.385.385,0,0,1,11,6.283l1.211,1.991a.385.385,0,0,0,.687-.046L14.543,4.5" transform="translate(3 -0.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <rect id="Rectangle_119" data-name="Rectangle 119" width="19.65" height="19.65" transform="translate(14400 8127)" fill="none"/>
+  </g>
+</svg>

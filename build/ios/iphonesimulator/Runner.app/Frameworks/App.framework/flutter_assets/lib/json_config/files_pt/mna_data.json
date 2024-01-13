@@ -1,0 +1,310 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusquestion": "B. Perda de peso nos últimos 3 meses",
+      "statusId": "60bdcdb3706a31127cf0c8b2",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Superior a três quilos (Escore 0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bdd259706a31127cf0c8d0",
+          "statusquestionId": "60bdce76706a31127cf0c8ba",
+          "createdAt": "2021-06-07T08:01:29.742Z",
+          "updatedAt": "2021-06-07T08:01:29.742Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Não sabe informar (Escore 1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bdd272706a31127cf0c8d1",
+          "statusquestionId": "60bdce76706a31127cf0c8ba",
+          "createdAt": "2021-06-07T08:01:54.373Z",
+          "updatedAt": "2021-06-07T08:01:54.373Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Entre um e três quilos (Escore 2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bdd2a2706a31127cf0c8d2",
+          "statusquestionId": "60bdce76706a31127cf0c8ba",
+          "createdAt": "2021-06-07T08:02:42.079Z",
+          "updatedAt": "2021-06-07T08:02:42.079Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Sem perda de peso (Escore 3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bdd2b8706a31127cf0c8d3",
+          "statusquestionId": "60bdce76706a31127cf0c8ba",
+          "createdAt": "2021-06-07T08:03:04.662Z",
+          "updatedAt": "2021-06-07T08:03:04.662Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdce76706a31127cf0c8ba",
+      "createdAt": "2021-06-07T07:44:54.227Z",
+      "updatedAt": "2021-08-02T13:25:04.005Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "C. Mobilidade",
+      "statusId": "60bdcdb3706a31127cf0c8b2",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Restrito ao leito ou à cadeira de rodas (Escore 0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bdd2e1706a31127cf0c8d4",
+          "statusquestionId": "60bdce8a706a31127cf0c8bb",
+          "createdAt": "2021-06-07T08:03:45.767Z",
+          "updatedAt": "2021-06-07T08:03:45.767Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Deambula mas não é capaz de sair de casa (Escore 1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bdd336706a31127cf0c8d5",
+          "statusquestionId": "60bdce8a706a31127cf0c8bb",
+          "createdAt": "2021-06-07T08:05:10.257Z",
+          "updatedAt": "2021-06-07T08:05:10.257Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Normal (Escore 2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60d9b8d3ea065050bcbc5527",
+          "statusquestionId": "60bdce8a706a31127cf0c8bb",
+          "createdAt": "2021-06-28T11:56:03.452Z",
+          "updatedAt": "2021-07-20T05:29:47.951Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdce8a706a31127cf0c8bb",
+      "createdAt": "2021-06-07T07:45:14.957Z",
+      "updatedAt": "2021-08-02T13:26:04.252Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "D. Passou por algum estresse psicológico ou doença aguda nos últimos três meses?",
+      "statusId": "60bdcdb3706a31127cf0c8b2",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Sim (Escore 0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf2ebcc860be2e0a5ccf56",
+          "statusquestionId": "60bdce98706a31127cf0c8bc",
+          "createdAt": "2021-06-08T08:47:56.207Z",
+          "updatedAt": "2021-06-08T08:47:56.207Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Não (Escore 2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf2eccc860be2e0a5ccf57",
+          "statusquestionId": "60bdce98706a31127cf0c8bc",
+          "createdAt": "2021-06-08T08:48:12.537Z",
+          "updatedAt": "2021-06-08T08:48:12.537Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdce98706a31127cf0c8bc",
+      "createdAt": "2021-06-07T07:45:28.756Z",
+      "updatedAt": "2021-08-02T13:27:43.278Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "F2. Circunferência da Panturrilha (CP) em cm",
+      "statusId": "_60bdcdb3706a31127cf0c8b2",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "CP menor que 31 (Escore 0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf2e69c860be2e0a5ccf54",
+          "statusquestionId": "60bdcea3706a31127cf0c8bd",
+          "createdAt": "2021-06-08T08:46:33.464Z",
+          "updatedAt": "2021-06-08T08:46:33.464Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "CP maior ou igual a 31 (Escore 3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bf2e80c860be2e0a5ccf55",
+          "statusquestionId": "60bdcea3706a31127cf0c8bd",
+          "createdAt": "2021-06-08T08:46:56.411Z",
+          "updatedAt": "2021-06-08T08:46:56.411Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdcea3706a31127cf0c8bd",
+      "createdAt": "2021-06-07T07:45:39.555Z",
+      "updatedAt": "2021-08-02T13:31:36.585Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "F1. Índice de Massa Corporal (IMC = peso [kg] / estatura [m2])",
+      "statusId": "60bdcdb3706a31127cf0c8b2_",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "IMC < 19 (Escore 0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf2dc6c860be2e0a5ccf50",
+          "statusquestionId": "60bdceb4706a31127cf0c8be",
+          "createdAt": "2021-06-08T08:43:50.444Z",
+          "updatedAt": "2021-06-08T08:43:50.444Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "19 ≤ IMC < 21 (Escore 1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf2de2c860be2e0a5ccf51",
+          "statusquestionId": "60bdceb4706a31127cf0c8be",
+          "createdAt": "2021-06-08T08:44:18.699Z",
+          "updatedAt": "2021-06-08T08:44:18.699Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "21 ≤ IMC < 23 (Escore 2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf2e01c860be2e0a5ccf52",
+          "statusquestionId": "60bdceb4706a31127cf0c8be",
+          "createdAt": "2021-06-08T08:44:49.668Z",
+          "updatedAt": "2021-06-08T08:44:49.668Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "IMC ≥ 23 (Escore 3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bf2e14c860be2e0a5ccf53",
+          "statusquestionId": "60bdceb4706a31127cf0c8be",
+          "createdAt": "2021-06-08T08:45:08.415Z",
+          "updatedAt": "2021-06-08T08:45:08.415Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "IMC não calculado",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60f503548e7cc42baff42255",
+          "statusquestionId": "60bdceb4706a31127cf0c8be",
+          "createdAt": "2021-07-19T04:45:08.804Z",
+          "updatedAt": "2021-07-19T04:47:31.827Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdceb4706a31127cf0c8be",
+      "createdAt": "2021-06-07T07:45:56.058Z",
+      "updatedAt": "2021-08-02T13:30:26.763Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "E. Problemas neuropsicológicos",
+      "statusId": "60bdcdb3706a31127cf0c8b2",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Demência ou depressão graves (Escore 0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf2cebc860be2e0a5ccf4d",
+          "statusquestionId": "60bdcf35706a31127cf0c8bf",
+          "createdAt": "2021-06-08T08:40:11.101Z",
+          "updatedAt": "2021-06-08T08:40:11.101Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Demência leve (Escore 1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf2d64c860be2e0a5ccf4e",
+          "statusquestionId": "60bdcf35706a31127cf0c8bf",
+          "createdAt": "2021-06-08T08:42:12.122Z",
+          "updatedAt": "2021-06-08T08:42:12.122Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Sem problemas psicológicos (Escore 2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf2d79c860be2e0a5ccf4f",
+          "statusquestionId": "60bdcf35706a31127cf0c8bf",
+          "createdAt": "2021-06-08T08:42:33.100Z",
+          "updatedAt": "2021-06-08T08:42:33.100Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdcf35706a31127cf0c8bf",
+      "createdAt": "2021-06-07T07:48:05.022Z",
+      "updatedAt": "2021-08-02T13:29:14.800Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "A. Nos últimos três meses houve diminuição da ingesta alimentar devido à perda de apetite, problemas digestivos ou dificuldade para mastigar ou deglutir?",
+      "statusId": "60bdcdb3706a31127cf0c8b2",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Diminuição severa da ingesta (Escore 0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60f4fc658e7cc42baff42251",
+          "statusquestionId": "60f4fc288e7cc42baff42250",
+          "createdAt": "2021-07-19T04:15:33.151Z",
+          "updatedAt": "2021-07-19T04:15:33.151Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Diminuição moderada da ingesta (Escore 1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60f4fc958e7cc42baff42252",
+          "statusquestionId": "60f4fc288e7cc42baff42250",
+          "createdAt": "2021-07-19T04:16:21.009Z",
+          "updatedAt": "2021-07-19T04:16:21.009Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Sem diminuição da ingesta (Escore 2))",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60f4fcb18e7cc42baff42253",
+          "statusquestionId": "60f4fc288e7cc42baff42250",
+          "createdAt": "2021-07-19T04:16:49.540Z",
+          "updatedAt": "2021-07-19T04:16:49.540Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60f4fc288e7cc42baff42250",
+      "createdAt": "2021-07-19T04:14:32.177Z",
+      "updatedAt": "2021-08-02T13:23:42.031Z",
+      "__v": 0
+    }
+  ]
+}

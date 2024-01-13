@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66973758177",
+    "project_id": "medical-5594a",
+    "storage_bucket": "medical-5594a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66973758177:android:a4ceadddacf9cf78823da0",
+        "android_client_info": {
+          "package_name": "com.unihealth.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66973758177-seek68hf459sqnh5qqtvkc9gehtegkid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unihealth.android",
+            "certificate_hash": "78ca1abf07c5fe2217222f7e103ffa071d9afcfe"
+          }
+        },
+        {
+          "client_id": "66973758177-vfv81f61c8q1d5nao27ltafcda0bo6uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgWiYEALPOaX4UCe20957SQZYqj85tzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66973758177-vfv81f61c8q1d5nao27ltafcda0bo6uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

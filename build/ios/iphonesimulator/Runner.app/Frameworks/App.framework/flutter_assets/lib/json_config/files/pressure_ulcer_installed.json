@@ -1,0 +1,144 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusquestion": "STAGE 1",
+      "statusId": "STAGE 1",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Intact skin with non-blanchable redness of a localized area usually over a bony prominence. Darkly pigmented skin may not have visible blanching; its color may differ from the surrounding area. The area may be painful, firm, soft, warmer or cooler as compared to adjacent tissue. Category/Stage I may be difficult to detect in individuals with dark skin tones. May indicate “at risk” individuals (a heralding sign of risk).",
+          "score": "1",
+          "file": "assets/images/NPUAP-stage1.jpeg",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "STAGE 2",
+      "statusId": "STAGE 2",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Partial thickness loss of dermis presenting as a shallow open ulcer with a red pink wound bed, without slough. May also present as an intact or open/ruptured serum filled blister. Presents as a shiny or dry shallow ulcer without slough or bruising.* This Category/Stage should not be used to describe skin tears, tape burns, perineal dermatitis, maceration or excoriation. *Bruising indicates suspected deep tissue injury",
+          "score": "1",
+          "file": "assets/images/NPUAP-Stage2.jpeg",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "STAGE 3",
+      "statusId": "STAGE 3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Full thickness tissue loss. Subcutaneous fat may be visible but bone, tendon or muscle are not exposed. Slough may be present but does not obscure the depth of tissue loss. May include undermining and tunneling. The depth of a Category/Stage III pressure ulcer varies by anatomical location. The bridge of the nose, ear, occiput and malleolus do not have subcutaneous tissue and Category/Stage III ulcers can be shallow. In contrast, areas of significant adiposity can develop extremely deep Category/Stage III pressure ulcers. Bone/tendon is not visible or directly palpable.",
+          "score": "1",
+          "file": "assets/images/NPUAP-Stage3.jpeg",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "STAGE 4",
+      "statusId": "STAGE 4",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Full thickness tissue loss with exposed bone, tendon or muscle. Slough or eschar may be present on some parts of the wound bed. Often include undermining and tunneling. The depth of a Category/Stage IV pressure ulcer varies by anatomical location. The bridge of the nose, ear, occiput and malleolus do not have subcutaneous tissue and these ulcers can be shallow. Category/Stage IV ulcers can extend into muscle and/or supporting structures (e.g., fascia, tendon or joint capsule) making osteomyelitis possible. Exposed bone/tendon is visible or directly palpable.",
+          "score": "1",
+          "file": "assets/images/NPUAP-Stage4.jpeg",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "DEPTH UNKNOWN",
+      "statusId": "DEPTH UNKNOWN",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Full thickness tissue loss in which the base of the ulcer is covered by slough (yellow, tan, gray, green or brown) and/or eschar (tan, brown or black) in the wound bed. Until enough slough and/or eschar is removed to expose the base of the wound, the true depth, and therefore Category/Stage, cannot be determined. Stable (dry, adherent, intact without erythema or fluctuance) eschar on the heels serves as ‘the body’s natural (biological) cover’ and should not be removed.",
+          "score": "1",
+          "file": "assets/images/unstagePI-pic1.png",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "SUSPECTED DEEP TISSUE INJURY",
+      "statusId": "SUSPECTED DEEP TISSUE INJURY",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Purple or maroon localized area of discolored intact skin or blood-filled blister due to damage of underlying soft tissue from pressure and/or shear. The area may be preceded by tissue that is painful, firm, mushy, boggy, warmer or cooler as compared to adjacent tissue. Deep tissue injury may be difficult to detect in individuals with dark skin tones. Evolution may include a thin blister over a dark wound bed. The wound may further evolve and become covered by thin eschar. Evolution may be rapid, exposing additional layers of tissue even with optimal treatment. When necrotic tissue, subcutaneous tissue, granulation tissue, fascia, muscle or other underlying structures are visible, this indicates pressure injury with total tissue loss (Unclassified Pressure Injury or Stage 3 or Stage 4).",
+          "score": "1",
+          "file": null,
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    }
+  ]
+}

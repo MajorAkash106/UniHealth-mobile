@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="32" viewBox="0 0 29 32">
+  <g id="Group_13" data-name="Group 13" transform="translate(-320 -248)">
+    <path id="Icon_awesome-bell-slash" data-name="Icon awesome-bell-slash" d="M18.957,13.7l-2.71-2.1a.9.9,0,0,0,.024-.121.934.934,0,0,0-.258-.649c-.578-.621-1.659-1.555-1.659-4.615A4.723,4.723,0,0,0,10.527,1.58V.957a.956.956,0,1,0-1.913,0V1.58A4.8,4.8,0,0,0,5.7,3.452L1.36.1A.479.479,0,0,0,.688.185L.1.941a.478.478,0,0,0,.084.671l17.6,13.6a.479.479,0,0,0,.672-.084l.587-.756A.478.478,0,0,0,18.957,13.7ZM4.7,7.523a5.079,5.079,0,0,1-1.574,3.312.934.934,0,0,0-.258.649.958.958,0,0,0,.96.957h7.235Zm4.868,7.79A1.914,1.914,0,0,0,11.484,13.4H7.657A1.914,1.914,0,0,0,9.571,15.313Z" transform="translate(325 256)" fill="#329997"/>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(320 248)" fill="none" stroke="#329997" stroke-width="1">
+      <rect width="29" height="32" rx="6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="28" height="31" rx="5.5" fill="none"/>
+    </g>
+  </g>
+</svg>

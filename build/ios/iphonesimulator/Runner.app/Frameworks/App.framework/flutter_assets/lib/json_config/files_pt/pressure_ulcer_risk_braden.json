@@ -1,0 +1,308 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusquestion": "PERCEPÇÃO SENSORIAL",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "TOTALMENTE LIMITADO - Não reage (não geme, não se segura a nada, não se esquiva) a estímulo doloroso, devido ao nível de consciência diminuído ou devido à sedação ou capacidade limitada de sentir dor na maior parte do corpo. (ESCORE=1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "MUITO LIMITADO - Somente reage a estímulo doloroso. Não é capaz de comunicar desconforto exceto através de gemido ou agitação. Ou possui alguma deficiência sensorial que limita a capacidade de sentir dor ou desconforto em mais de metade do corpo. (ESCORE=2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e0a5ccf5c",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "LEVEMENTE LIMITADO - Responde a comando verbal, mas nem sempre é capaz de comunicar o desconforto ou expressar necessidade de ser mudado de posição ou tem um certo grau de deficiência sensorial que limita a capacidade de sentir dor ou desconforto em 1 ou 2 extremidades. (ESCORE=3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "NENHUMA LIMITAÇÃO - Responde a comandos verbais: não tem déficit sensorial que limitaria a capacidade de sentir ou verbalizar dor ou desconforto. (ESCORE=4)",
+          "score": "4",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "UMIDADE",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "COMPLETAMENTE MOLHADA - A pele é mantida molhada quase constantemente por transpiração, urina, etc. Umidade é detectada às movimentações do paciente. (ESCORE=1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "MUITO MOLHADA - A pele está frequentemente, mas nem sempre molhada. A roupa de cama deve ser trocada pelo menos uma vez por turno. (ESCORE=2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e0a5ccf5c",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "OCASIONALMENTE MOLHADA - A pele fica ocasionalmente molhada requerendo uma troca extra de roupa de cama por dia. (ESCORE=3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "RARAMENTE MOLHADA - A pele geralmente está seca, a troca de roupa de cama é necessária somente nos intervalos de rotina.(ESCORE=4).",
+          "score": "4",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "ATIVIDADE",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "ACAMADO - Confinado a cama.(ESCORE=1).",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "CONFINADO À CADEIRA - Capacidade de andar está severamente limitada ou nula. Não é capaz de sustentar o próprio peso e/ou precisa ser ajudado a se sentar. (ESCORE=2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e0a5ccf5c",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "ANDA OCASIONALMENTE - Anda ocasionalmente durante o dia, embora distâncias muito curtas, com ou sem ajuda. Passa a maior parte de cada turno na cama ou na cadeira. (ESCORE=3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "ANDA FREQÜENTEMENTE - Anda fora do quarto pelo menos 2 vezes por dia e dentro do quarto pelo uma vez a cada 2 horas durante as horas em que está acordado. (ESCORE=4)",
+          "score": "4",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "MOBILIDADE",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "TOTALMENTE IMÓVEL - Não faz nem mesmo pequenas mudanças na posição do corpo ou extremidades sem ajuda (ESCORE=1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "BASTANTE LIMITADO - Faz pequenas mudanças ocasionais na posição do corpo ou extremidades mas é incapaz de fazer mudanças frequentes ou significantes sozinho. (ESCORE=2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e0a5ccf5c",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "LEVEMENTE LIMITADO - Faz frequentes, embora pequenas, mudanças na posição do corpo ou extremidades sem ajuda. (ESCORE=3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "NÃO APRESENTA LIMITAÇÕES - Faz importantes e frequentes mudanças sem auxílio. (ESCORE=4).",
+          "score": "4",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "NUTRIÇÃO",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "MUITO POBRE - Nunca come uma refeição completa.Raramente come mais de 1/3 do alimento oferecido. Come 2 porções ou menos de proteína (carnes ou laticínios) por dia. Ingere pouco líquido. Não aceita suplemento alimentar líquido. Ou é mantido em jejum e/ou mantido com dieta líquida ou IVS por mais de cinco dias (ESCORE=1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "PROVAVELMENTE INADEQUADO - Raramente come uma refeição completa. Geralmente come cerca de metade do alimento oferecido. Ingestão de proteína inclui somente 3 porções de carne ou laticínios por dia. Ocasionalmente aceitará um suplemento alimentar ou recebe abaixo da quantidade satisfatória de dieta líquida ou alimentação por sonda. (ESCORE=2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e0a5ccf5c",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "ADEQUADO - Come mais da metade da maioria das refeições. Come um total de 4 porções de alimento rico em proteínas (carne e laticínios) todo dia. Ocasionalmente recusará uma refeição, mas geralmente aceitará um complemento oferecido. Ou é alimentado por sonda ou regime de nutrição parenteral total, o qual provavelmente satisfaz a maior parte das necessidades nutricionais. (ESCORE=3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "EXCELENTE - Come a maior parte de cada refeição. Geralmente ingere um total de 4 ou mais porções de carne e laticínios. Ocasionalmente come entre as refeições. Não requer suplemento alimentar. (ESCORE=4)",
+          "score": "4",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "FRICÇÃO E CISALHAMENTO",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "PROBLEMA - Requer assistência moderada a máxima para se mover. É impossível levantá-lo ou erguê-lo completamente sem que haja atrito da pele com o lençol. Frequentemente escorrega na cama ou cadeira, necessitando frequentes ajustes de posição com o máximo de assistência. Espasticidade, contratura ou agitação leva a quase constante fricção. (ESCORE=1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "PROBLEMA EM POTENCIAL - Move-se mas, sem vigor ou requer mínima assistência. Durante o movimento provavelmente ocorre um certo atrito da pele com o lençol, cadeira ou outros. Na maior parte do tempo mantém posição relativamente boa na cama ou na cadeira mas ocasionalmente escorrega. (ESCORE=2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e0a5ccf5c",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "NENHUM PROBLEMA - Move-se sozinho na cama ou cadeira e tem suficiente força muscular para erguer-se completamente durante o movimento.Sempre mantém boa posição na cama ou na cadeira. (ESCORE=3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    }
+  ]
+}

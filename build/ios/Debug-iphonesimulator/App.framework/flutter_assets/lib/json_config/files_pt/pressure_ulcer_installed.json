@@ -1,0 +1,144 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusquestion": "ESTÁGIO 1",
+      "statusId": "STAGE 1",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Pele intacta, área localizada de eritema não-branqueável, que pode aparecer de maneira diferente na pele pigmentada escura. A presença de eritema palpável ou alterações na sensação, temperatura ou turgor podem preceder às alterações visuais. As alterações de cor não incluem descoloração roxa ou marrom, estas podem indicar lesão tissular profunda.",
+          "score": "1",
+          "file": "assets/images/NPUAP-stage1.jpeg",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "ESTÁGIO 2",
+      "statusId": "STAGE 2",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Perda de espessura parcial da pele com derme exposta. O leito da ferida é viável, rosa ou vermelho, úmido e também pode se apresentar como uma bolha preenchida com exsudato seroso, intacta ou rompida. O tecido adiposo não é visível, assim como o tecido mais profundo. Não há tecido de granulação, descolamento ou escara.",
+          "score": "1",
+          "file": "assets/images/NPUAP-Stage2.jpeg",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "ESTÁGIO 3",
+      "statusId": "STAGE 3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Há perda de pele em toda sua espessura, na qual o tecido adiposo é visível na lesão e no tecido de granulação, assim como existem bordas enroladas da ferida (epíbole). Descolamento ou escaras podem estar visíveis e áreas de adiposidade significativa podem desenvolver feridas profundas. Tunelização pode ocorrer. Fáscia, músculo, tendão, ligamento, cartilagem ou osso não estão expostos. Se o descolamento ou escaras dificultarem a mensuração da extensão da perda de tecido, esta é uma LP não classificável.",
+          "score": "1",
+          "file": "assets/images/NPUAP-Stage3.jpeg",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "ESTÁGIO 4",
+      "statusId": "STAGE 4",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Perda total de tecido e pele; com fáscia, músculo, tendão, ligamento, cartilagem e osso que podem estar expostos ou diretamente palpáveis na úlcera. Descolamento ou escaras podem estar visíveis. Frequentemente ocorrem tunelização e enrolamento das bordas (epíbole). A profundidade varia de acordo com a localização anatômica. Se o descolamento ou escaras dificultarem a mensuração da extensão da perda de tecido, esta é uma LP não classificável.",
+          "score": "1",
+          "file": "assets/images/NPUAP-Stage4.jpeg",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "NÃO-CLASSIFICÁVEL",
+      "statusId": "DEPTH UNKNOWN",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Perda da pele em sua espessura total e perda tissular na qual a extensão do dano não pode ser confirmada porque está encoberta pelo esfacelo ou escara. Ao ser removido (esfacelo ou escara), a lesão por pressão em Estágio 3 ou Estágio 4 ficará aparente. Escara estável (isto é, seca, aderente, sem eritema ou flutuação) em membro isquêmico ou no calcâneo não deve ser removida.",
+          "score": "1",
+          "file": "assets/images/unstagePI-pic1.png",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "LESÃO TISSULAR PROFUNDA",
+      "statusId": "SUSPECTED DEEP TISSUE INJURY",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Pele intacta ou não, com área localizada e persistente, de descoloração vermelha escura, marrom ou púrpura que não embranquece, ou separação epidérmica que mostra lesão com leito escurecido ou bolha com exsudato sanguinolento. Dor e mudança na temperatura frequentemente precedem às alterações de coloração da pele. A descoloração pode apresentar-se diferente em pessoas com pele de tonalidade mais escura. Essa lesão resulta de pressão intensa e/ou prolongada e de cisalhamento na interface osso-músculo. A ferida pode evoluir rapidamente e revelar a extensão atual da lesão tissular ou resolver sem perda tissular. Quando tecido necrótico, tecido subcutâneo, tecido de granulação, fáscia, músculo ou outras estruturas subjacentes estão visíveis, isso indica lesão por pressão com perda total de tecido (Lesão por Pressão Não Classificável ou Estágio 3 ou Estágio 4). Não se deve utilizar a categoria lesão por pressão tissular profunda (LPTP) para descrever condições vasculares, traumáticas, neuropáticas ou dermatológicas.",
+          "score": "1",
+          "file": null,
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    }
+  ]
+}

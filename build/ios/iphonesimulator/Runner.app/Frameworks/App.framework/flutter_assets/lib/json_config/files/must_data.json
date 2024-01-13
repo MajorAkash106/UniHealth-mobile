@@ -1,0 +1,122 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusquestion": "BMI kg/m2",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": ">20 (>30 obese) (Score=0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5ccf5b",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "18.5--20 (Score=1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e0a5ccf5c",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "<18.5 (Score=2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5d",
+          "statusquestionId": "60bf301cc860be2e0a5ccf58",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "Unplanned weight loss in past 3-6 months",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "<5% (Score=0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf3143c860be2e0a5ccf5e",
+          "statusquestionId": "60bf307cc860be2e0a5ccf59",
+          "createdAt": "2021-06-08T08:58:43.364Z",
+          "updatedAt": "2021-06-08T08:58:43.364Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "5--10% (Score=1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf31a4c860be2e0a5ccf5f",
+          "statusquestionId": "60bf307cc860be2e0a5ccf59",
+          "createdAt": "2021-06-08T09:00:20.528Z",
+          "updatedAt": "2021-06-08T09:00:20.528Z",
+          "__v": 0
+        },
+        {
+          "statusoption": ">10% (Score=2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf31b6c860be2e0a5ccf60",
+          "statusquestionId": "60bf307cc860be2e0a5ccf59",
+          "createdAt": "2021-06-08T09:00:38.020Z",
+          "updatedAt": "2021-06-08T09:00:38.020Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf307cc860be2e0a5ccf59",
+      "createdAt": "2021-06-08T08:55:24.576Z",
+      "updatedAt": "2021-06-08T08:55:24.576Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "If the patient acutely ill and there has been or is likely to be no nutritional intake for > 5 days",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "0",
+      "options": [
+        {
+          "statusoption": "(Score=2) Yes",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf31e3c860be2e0a5ccf61",
+          "statusquestionId": "60bf3091c860be2e0a5ccf5a",
+          "createdAt": "2021-06-08T09:01:23.734Z",
+          "updatedAt": "2021-07-19T06:03:27.561Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "(Score=0) No",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf31f3c860be2e0a5ccf62",
+          "statusquestionId": "60bf3091c860be2e0a5ccf5a",
+          "createdAt": "2021-06-08T09:01:39.413Z",
+          "updatedAt": "2021-07-19T06:04:21.439Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf3091c860be2e0a5ccf5a",
+      "createdAt": "2021-06-08T08:55:45.700Z",
+      "updatedAt": "2021-06-28T10:12:30.929Z",
+      "__v": 0
+    }
+  ]
+}

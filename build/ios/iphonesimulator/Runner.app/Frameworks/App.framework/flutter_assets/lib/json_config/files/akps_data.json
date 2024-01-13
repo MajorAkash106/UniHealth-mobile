@@ -1,0 +1,116 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "optionname": "100% NORMAL; NO COMPLAINTS; NO EVIDENCE OF DISEASE",
+      "persentage": "100",
+      "isBlocked": false,
+      "_id": "60b77d3af764bf15648a2454",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-02T12:44:42.834Z",
+      "updatedAt": "2021-06-02T12:44:42.834Z",
+      "__v": 0
+    },
+    {
+      "optionname": "90% ABLE TO CARRY ON NORMAL ACTIVITY; MINOR SIGNS OR SYMPTOMS",
+      "persentage": "90",
+      "isBlocked": false,
+      "_id": "60b77d53f764bf15648a2455",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-02T12:45:07.164Z",
+      "updatedAt": "2021-06-02T12:45:07.164Z",
+      "__v": 0
+    },
+    {
+      "optionname": "80% NORMAL ACTIVITY WITH EFFORT; SOME SIGNS OR SYMPTOMS",
+      "persentage": "80",
+      "isBlocked": false,
+      "_id": "60b89f4844c9c9178b3112e9",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-03T09:22:16.268Z",
+      "updatedAt": "2021-06-03T09:22:16.268Z",
+      "__v": 0
+    },
+    {
+      "optionname": "70% CARES FOR SELF; UNABLE TO CARRY ON NORMAL ACTIVITY OR TO DO ACTIVE WORK",
+      "persentage": "70",
+      "isBlocked": false,
+      "_id": "60b89f6544c9c9178b3112ea",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-03T09:22:45.047Z",
+      "updatedAt": "2021-06-03T09:22:45.047Z",
+      "__v": 0
+    },
+    {
+      "optionname": "60% ABLE TO CARE FOR MOST NEEDS; BUT REQUIRES OCCASIONAL ASSISTANCE",
+      "persentage": "60",
+      "isBlocked": false,
+      "_id": "60b89f7b44c9c9178b3112eb",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-03T09:23:07.422Z",
+      "updatedAt": "2021-06-03T09:23:07.422Z",
+      "__v": 0
+    },
+    {
+      "optionname": "50% REQUIRES CONSIDERABLE ASSISTANCE AND FREQUENT MEDICAL CARE",
+      "persentage": "50",
+      "isBlocked": false,
+      "_id": "60b89fed44c9c9178b3112ec",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-03T09:25:01.654Z",
+      "updatedAt": "2021-06-03T09:25:01.654Z",
+      "__v": 0
+    },
+    {
+      "optionname": "40% IN BED MORE THAN 50% OF THE TIME ",
+      "persentage": "40",
+      "isBlocked": false,
+      "_id": "60b8a00344c9c9178b3112ed",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-03T09:25:23.255Z",
+      "updatedAt": "2021-06-03T09:25:23.255Z",
+      "__v": 0
+    },
+    {
+      "optionname": "30% ALMOST COMPLETELY BEDFAST ",
+      "persentage": "30",
+      "isBlocked": false,
+      "_id": "60b8a01b44c9c9178b3112ee",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-03T09:25:47.331Z",
+      "updatedAt": "2021-06-03T09:25:47.331Z",
+      "__v": 0
+    },
+    {
+      "optionname": "20% TOTALLY BEDFAST AND REQUIRING EXTENSIVE NURSING CARE BY PROFESSIONALS AND/OR FAMILY ",
+      "persentage": "20",
+      "isBlocked": false,
+      "_id": "60b8a03844c9c9178b3112ef",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-03T09:26:16.882Z",
+      "updatedAt": "2021-06-03T09:26:16.882Z",
+      "__v": 0
+    },
+    {
+      "optionname": "10% COMATOSE OR BARELY ROUSABLE",
+      "persentage": "10",
+      "isBlocked": false,
+      "_id": "60b8a05144c9c9178b3112f0",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-03T09:26:41.115Z",
+      "updatedAt": "2021-06-03T09:26:41.115Z",
+      "__v": 0
+    },
+    {
+      "optionname": "0% DEAD",
+      "persentage": "0",
+      "isBlocked": false,
+      "_id": "60b8a06344c9c9178b3112f1",
+      "questionId": "60b7792df764bf15648a2449",
+      "createdAt": "2021-06-03T09:26:59.951Z",
+      "updatedAt": "2021-06-03T09:26:59.951Z",
+      "__v": 0
+    }
+  ]
+}

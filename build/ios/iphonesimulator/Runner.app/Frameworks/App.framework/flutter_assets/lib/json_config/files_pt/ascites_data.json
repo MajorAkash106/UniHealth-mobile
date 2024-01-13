@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "title": "MÍNIMO (2.2 KG DEVE SER DESCONTADO DO PESO CORPORAL)",
+      "type": "1",
+      "weight": "2.2",
+      "isBlocked": false,
+      "_id": "60c8e1239f75fb59f893cf4e",
+      "createdAt": "2021-06-15T17:19:31.697Z",
+      "updatedAt": "2021-06-15T17:19:31.697Z",
+      "__v": 0
+    },
+    {
+      "title": "MODERADO (6 KG DEVE SER DESCONTADO DO PESO CORPORAL)",
+      "type": "1",
+      "weight": "6",
+      "isBlocked": false,
+      "_id": "60c8e1439f75fb59f893cf4f",
+      "createdAt": "2021-06-15T17:20:03.992Z",
+      "updatedAt": "2021-06-15T17:20:03.992Z",
+      "__v": 0
+    },
+    {
+      "title": "INTENSO (14KG DEVE SER DESCONTADO DO PESO CORPORAL)",
+      "type": "1",
+      "weight": "14",
+      "isBlocked": false,
+      "_id": "60c8e15b9f75fb59f893cf50",
+      "createdAt": "2021-06-15T17:20:27.232Z",
+      "updatedAt": "2021-06-15T17:20:27.232Z",
+      "__v": 0
+    }
+  ]
+}

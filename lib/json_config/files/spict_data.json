@@ -1,0 +1,438 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "categoryname": "OTHER(CLINICAL INDICATOR)",
+      "isBlocked": false,
+      "options": [
+        {
+          "Subcategoryname": "DETERIORATING AND AT RISK OF DYING WITH OTHER CONDITIONS OR COMPLICATIONS THAT ARE NOT REVERSIBLE; ANY TREATMENT AVAILABLE WILL HAVE A POOR OUTCOME.",
+          "isBlocked": false,
+          "_id": "60c1de2661cecc0175a0b645",
+          "categoryId": "60c1de0861cecc0175a0b640",
+          "createdAt": "2021-06-10T09:40:54.312Z",
+          "updatedAt": "2021-06-10T09:40:54.312Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "NOT APPLICABLE.",
+          "isBlocked": false,
+          "_id": "60c1de3c61cecc0175a0b64a",
+          "categoryId": "60c1de0861cecc0175a0b640",
+          "createdAt": "2021-06-10T09:41:16.095Z",
+          "updatedAt": "2021-06-10T09:41:16.095Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60c1de0861cecc0175a0b640",
+      "createdAt": "2021-06-10T09:40:24.070Z",
+      "updatedAt": "2021-06-10T09:40:24.070Z",
+      "__v": 0
+    },
+    {
+      "categoryname": "LIVER DISEASE(CLINICAL INDICATOR)",
+      "isBlocked": false,
+      "options": [
+        {
+          "Subcategoryname": "CIRRHOSIS WITH ONE OR MORE COMPLICATIONS IN THE PAST YEAR: • DIURETIC RESISTANT ASCITES • HEPATIC ENCEPHALOPATHY • HEPATORENAL SYNDROME • BACTERIAL PERITONITIS • RECURRENT VARICEAL BLEEDS ",
+          "isBlocked": false,
+          "_id": "60c1ddcd61cecc0175a0b639",
+          "categoryId": "60c1ddad61cecc0175a0b630",
+          "createdAt": "2021-06-10T09:39:25.924Z",
+          "updatedAt": "2021-06-10T09:39:25.924Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "LIVER TRANSPLANT IS NOT POSSIBLE.",
+          "isBlocked": false,
+          "_id": "60c1dde161cecc0175a0b63e",
+          "categoryId": "60c1ddad61cecc0175a0b630",
+          "createdAt": "2021-06-10T09:39:45.566Z",
+          "updatedAt": "2021-06-10T09:39:45.566Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "NOT APPLICABLE.",
+          "isBlocked": false,
+          "_id": "60c1ddf261cecc0175a0b63f",
+          "categoryId": "60c1ddad61cecc0175a0b630",
+          "createdAt": "2021-06-10T09:40:02.785Z",
+          "updatedAt": "2021-06-10T09:40:02.785Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60c1ddad61cecc0175a0b630",
+      "createdAt": "2021-06-10T09:38:53.207Z",
+      "updatedAt": "2021-06-10T09:38:53.207Z",
+      "__v": 0
+    },
+    {
+      "categoryname": "KIDNEY DISEASE(CLINICAL INDICATOR)",
+      "isBlocked": false,
+      "options": [
+        {
+          "Subcategoryname": "STAGE 4 OR 5 CHRONIC KIDNEY DISEASE (EGFR < 30ML/MIN) WITH DETERIORATING HEALTH.",
+          "isBlocked": false,
+          "_id": "60c1dd5d61cecc0175a0b616",
+          "categoryId": "60c1dd2061cecc0175a0b606",
+          "createdAt": "2021-06-10T09:37:33.838Z",
+          "updatedAt": "2021-06-10T09:37:33.838Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "KIDNEY FAILURE COMPLICATING OTHER LIFE LIMITING CONDITIONS OR TREATMENTS.",
+          "isBlocked": false,
+          "_id": "60c1dd7061cecc0175a0b61b",
+          "categoryId": "60c1dd2061cecc0175a0b606",
+          "createdAt": "2021-06-10T09:37:52.675Z",
+          "updatedAt": "2021-06-10T09:37:52.675Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "STOPPING OR NOT STARTING DIALYSIS.",
+          "isBlocked": false,
+          "_id": "60c1dd7e61cecc0175a0b620",
+          "categoryId": "60c1dd2061cecc0175a0b606",
+          "createdAt": "2021-06-10T09:38:06.385Z",
+          "updatedAt": "2021-06-10T09:38:06.385Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "NOT APPLICABLE.",
+          "isBlocked": false,
+          "_id": "60c1dd8d61cecc0175a0b626",
+          "categoryId": "60c1dd2061cecc0175a0b606",
+          "createdAt": "2021-06-10T09:38:21.487Z",
+          "updatedAt": "2021-06-10T09:38:21.487Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60c1dd2061cecc0175a0b606",
+      "createdAt": "2021-06-10T09:36:32.365Z",
+      "updatedAt": "2021-06-10T09:36:32.365Z",
+      "__v": 0
+    },
+    {
+      "categoryname": "RESPIRATORY DISEASE(CLINICAL INDICATOR)",
+      "isBlocked": false,
+      "options": [
+        {
+          "Subcategoryname": "SEVERE, CHRONIC LUNG DISEASE; WITH BREATHLESSNESS AT REST OR ON MINIMAL EFFORT BETWEEN EXACERBATIONS.",
+          "isBlocked": false,
+          "_id": "60c1dc9a61cecc0175a0b5ea",
+          "categoryId": "60c1dc5961cecc0175a0b5e3",
+          "createdAt": "2021-06-10T09:34:18.655Z",
+          "updatedAt": "2021-06-10T09:34:18.655Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "PERSISTENT HYPOXIA NEEDING LONG TERM OXYGEN THERAPY.",
+          "isBlocked": false,
+          "_id": "60c1dcaf61cecc0175a0b5ef",
+          "categoryId": "60c1dc5961cecc0175a0b5e3",
+          "createdAt": "2021-06-10T09:34:39.032Z",
+          "updatedAt": "2021-06-10T09:34:39.032Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "HAS NEEDED VENTILATION FOR RESPIRATORY FAILURE OR VENTILATION IS CONTRAINDICATED.",
+          "isBlocked": false,
+          "_id": "60c1dcbf61cecc0175a0b5f3",
+          "categoryId": "60c1dc5961cecc0175a0b5e3",
+          "createdAt": "2021-06-10T09:34:55.370Z",
+          "updatedAt": "2021-06-10T09:34:55.370Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "NOT APPLICABLE.",
+          "isBlocked": false,
+          "_id": "60c1dcd461cecc0175a0b5fa",
+          "categoryId": "60c1dc5961cecc0175a0b5e3",
+          "createdAt": "2021-06-10T09:35:16.002Z",
+          "updatedAt": "2021-06-10T09:35:16.002Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60c1dc5961cecc0175a0b5e3",
+      "createdAt": "2021-06-10T09:33:13.541Z",
+      "updatedAt": "2021-06-10T09:33:13.541Z",
+      "__v": 0
+    },
+    {
+      "categoryname": "HEART / VASCULAR DISEASE(CLINICAL INDICATOR)",
+      "isBlocked": false,
+      "options": [
+        {
+          "Subcategoryname": "HEART FAILURE OR EXTENSIVE, UNTREATABLE CORONARY ARTERY DISEASE; WITH BREATHLESSNESS OR CHEST PAIN AT REST OR ON MINIMAL EFFORT.",
+          "isBlocked": false,
+          "_id": "60c1dc0b61cecc0175a0b5df",
+          "categoryId": "60c1dbd061cecc0175a0b5dd",
+          "createdAt": "2021-06-10T09:31:55.621Z",
+          "updatedAt": "2021-06-10T09:31:55.621Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "SEVERE, INOPERABLE PERIPHERAL VASCULAR DISEASE",
+          "isBlocked": false,
+          "_id": "60c1dc3461cecc0175a0b5e1",
+          "categoryId": "60c1dbd061cecc0175a0b5dd",
+          "createdAt": "2021-06-10T09:32:36.926Z",
+          "updatedAt": "2021-06-10T09:32:36.926Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "NOT APPLICABLE.",
+          "isBlocked": false,
+          "_id": "60c1dc4561cecc0175a0b5e2",
+          "categoryId": "60c1dbd061cecc0175a0b5dd",
+          "createdAt": "2021-06-10T09:32:53.130Z",
+          "updatedAt": "2021-06-10T09:32:53.130Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60c1dbd061cecc0175a0b5dd",
+      "createdAt": "2021-06-10T09:30:56.488Z",
+      "updatedAt": "2021-06-10T09:30:56.488Z",
+      "__v": 0
+    },
+    {
+      "categoryname": "NEUROLOGICAL DISEASE(CLINICAL INDICATOR)",
+      "isBlocked": false,
+      "options": [
+        {
+          "Subcategoryname": "PROGRESSIVE DETERIORATION IN PHYSICAL AND/OR COGNITIVE FUNCTION DESPITE OPTIMAL THERAPY.",
+          "isBlocked": false,
+          "_id": "60c1db5c61cecc0175a0b5d1",
+          "categoryId": "60c1db2a61cecc0175a0b5d0",
+          "createdAt": "2021-06-10T09:29:00.843Z",
+          "updatedAt": "2021-06-10T09:29:00.843Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "SPEECH PROBLEMS WITH INCREASING DIFFICULTY COMMUNICATING AND/OR PROGRESSIVE DIFFICULTY WITH SWALLOWING.",
+          "isBlocked": false,
+          "_id": "60c1db7061cecc0175a0b5d2",
+          "categoryId": "60c1db2a61cecc0175a0b5d0",
+          "createdAt": "2021-06-10T09:29:20.073Z",
+          "updatedAt": "2021-06-10T09:29:20.073Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "RECURRENT ASPIRATION PNEUMONIA; BREATHLESS OR RESPIRATORY FAILURE.",
+          "isBlocked": false,
+          "_id": "60c1db9161cecc0175a0b5d5",
+          "categoryId": "60c1db2a61cecc0175a0b5d0",
+          "createdAt": "2021-06-10T09:29:53.973Z",
+          "updatedAt": "2021-06-10T09:29:53.973Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "PERSISTENT PARALYSIS AFTER STROKE WITH SIGNIFICANT LOSS OF FUNCTION AND ONGOING DISABILITY.",
+          "isBlocked": false,
+          "_id": "60c1dba261cecc0175a0b5d6",
+          "categoryId": "60c1db2a61cecc0175a0b5d0",
+          "createdAt": "2021-06-10T09:30:10.473Z",
+          "updatedAt": "2021-06-10T09:30:10.473Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "NOT APPLICABLE.",
+          "isBlocked": false,
+          "_id": "60c1dbb261cecc0175a0b5d9",
+          "categoryId": "60c1db2a61cecc0175a0b5d0",
+          "createdAt": "2021-06-10T09:30:26.835Z",
+          "updatedAt": "2021-06-10T09:30:26.835Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60c1db2a61cecc0175a0b5d0",
+      "createdAt": "2021-06-10T09:28:10.096Z",
+      "updatedAt": "2021-06-10T09:28:10.096Z",
+      "__v": 0
+    },
+    {
+      "categoryname": "DEMENTIA / FRAILTY(CLINICAL INDICATOR)",
+      "isBlocked": false,
+      "options": [
+        {
+          "Subcategoryname": "UNABLE TO DRESS, WALK OR EAT WITHOUT HELP",
+          "isBlocked": false,
+          "_id": "60b67395d06a9d7d339dda86",
+          "categoryId": "60b66eb4d06a9d7d339dda7c",
+          "createdAt": "2021-06-01T17:51:17.961Z",
+          "updatedAt": "2021-06-01T17:51:17.961Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "EATING AND DRINKING LESS; DIFFICULTY WITH SWALLOWING",
+          "isBlocked": false,
+          "_id": "60b673c1d06a9d7d339dda87",
+          "categoryId": "60b66eb4d06a9d7d339dda7c",
+          "createdAt": "2021-06-01T17:52:01.443Z",
+          "updatedAt": "2021-06-01T17:52:01.443Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "URINARY AND FAECAL INCONTINENCE",
+          "isBlocked": false,
+          "_id": "60b673e8d06a9d7d339dda88",
+          "categoryId": "60b66eb4d06a9d7d339dda7c",
+          "createdAt": "2021-06-01T17:52:40.374Z",
+          "updatedAt": "2021-06-01T17:52:40.374Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "NOT ABLE TO COMMUNICATE BY SPEAKING, LITTLE SOCIAL INTERACTION.",
+          "isBlocked": false,
+          "_id": "60b67411d06a9d7d339dda89",
+          "categoryId": "60b66eb4d06a9d7d339dda7c",
+          "createdAt": "2021-06-01T17:53:21.990Z",
+          "updatedAt": "2021-06-01T17:53:21.990Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "FREQUENT FALLS, FRACTURED FEMUR",
+          "isBlocked": false,
+          "_id": "60b67435d06a9d7d339dda8a",
+          "categoryId": "60b66eb4d06a9d7d339dda7c",
+          "createdAt": "2021-06-01T17:53:57.747Z",
+          "updatedAt": "2021-06-01T17:53:57.747Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "RECURRENT FEBRILE EPISODE OR INFECTIONS; ASPIRATION PNEUMONIA",
+          "isBlocked": false,
+          "_id": "60b67478d06a9d7d339dda8b",
+          "categoryId": "60b66eb4d06a9d7d339dda7c",
+          "createdAt": "2021-06-01T17:55:04.142Z",
+          "updatedAt": "2021-06-01T17:55:04.142Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "NOT APPLICABLE",
+          "isBlocked": false,
+          "_id": "60b67481d06a9d7d339dda8c",
+          "categoryId": "60b66eb4d06a9d7d339dda7c",
+          "createdAt": "2021-06-01T17:55:13.843Z",
+          "updatedAt": "2021-06-01T17:55:13.843Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60b66eb4d06a9d7d339dda7c",
+      "createdAt": "2021-06-01T17:30:28.969Z",
+      "updatedAt": "2021-06-10T09:20:27.595Z",
+      "__v": 0
+    },
+    {
+      "categoryname": "CANCER (CLINICAL INDICATOR)",
+      "isBlocked": false,
+      "options": [
+        {
+          "Subcategoryname": "FUNCTIONAL ABILITY DETERIORATING DUE TO PROGRESSIVE CANCER.",
+          "isBlocked": false,
+          "_id": "60b672f9d06a9d7d339dda83",
+          "categoryId": "60b66e62d06a9d7d339dda7b",
+          "createdAt": "2021-06-01T17:48:41.180Z",
+          "updatedAt": "2021-06-01T17:48:41.180Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "TOO FRAIL FOR CANCER TREATMENT OR TREATMENT IS FOR SYMPTOM CONTROL.",
+          "isBlocked": false,
+          "_id": "60b67326d06a9d7d339dda84",
+          "categoryId": "60b66e62d06a9d7d339dda7b",
+          "createdAt": "2021-06-01T17:49:26.497Z",
+          "updatedAt": "2021-06-01T17:49:26.497Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "NOT APPLICABLE",
+          "isBlocked": false,
+          "_id": "60b67337d06a9d7d339dda85",
+          "categoryId": "60b66e62d06a9d7d339dda7b",
+          "createdAt": "2021-06-01T17:49:43.900Z",
+          "updatedAt": "2021-06-01T17:49:43.900Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60b66e62d06a9d7d339dda7b",
+      "createdAt": "2021-06-01T17:29:06.404Z",
+      "updatedAt": "2021-06-10T09:25:21.982Z",
+      "__v": 0
+    },
+    {
+      "categoryname": "GENERAL INDICATORS",
+      "isBlocked": false,
+      "options": [
+        {
+          "Subcategoryname": "UNPLANNED HOSPITAL ADMISSION(S).",
+          "isBlocked": false,
+          "_id": "60b66f8cd06a9d7d339dda7d",
+          "categoryId": "60b66e2ad06a9d7d339dda7a",
+          "createdAt": "2021-06-01T17:34:04.498Z",
+          "updatedAt": "2021-06-01T17:34:04.498Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "PERFORMANCE STATUS IS POOR OR DETERIORATING WITH LIMITED REVERSIBILITY.\n(EG. THE PERSON STAYS IN BED OR CHAIR FOR MORE THAN HALF THE DAY.)",
+          "isBlocked": false,
+          "_id": "60b67014d06a9d7d339dda7e",
+          "categoryId": "60b66e2ad06a9d7d339dda7a",
+          "createdAt": "2021-06-01T17:36:20.064Z",
+          "updatedAt": "2021-06-01T17:36:20.064Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "DEPENDS ON OTHERS FOR CARE DUE TO INCREASING PHYSICAL AND/OR MENTAL HEALTH PROBLEMS.\nTHE PERSON'S CARER NEEDS MORE HELP AND SUPPORT.",
+          "isBlocked": false,
+          "_id": "60b670a8d06a9d7d339dda7f",
+          "categoryId": "60b66e2ad06a9d7d339dda7a",
+          "createdAt": "2021-06-01T17:38:48.145Z",
+          "updatedAt": "2021-06-01T17:38:48.145Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "PROGRESSIVE WEIGHT LOSS; REMAINS UNDERWEIGHT; LOW MUSCLE MASS.",
+          "isBlocked": false,
+          "_id": "60b671efd06a9d7d339dda232kamdksn0",
+          "categoryId": "60b66e2ad06a9d7d339dda7a",
+          "createdAt": "2021-06-01T17:44:15.256Z",
+          "updatedAt": "2021-06-01T17:44:15.256Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "PERSISTENT SYMPTOMS DESPITE OPTIMAL TREATMENT OF UNDERLYING CONDITION(S).",
+          "isBlocked": false,
+          "_id": "60b671efd06a9d7d339dda80",
+          "categoryId": "60b66e2ad06a9d7d339dda7a",
+          "createdAt": "2021-06-01T17:44:15.256Z",
+          "updatedAt": "2021-06-01T17:44:15.256Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "THE PERSON OR (FAMILY) ASKS FOR PALLIATIVE CARE, CHOOSES TO REDUCE, STOP OR NOT HAVE TREATMENT, OR WISHES TO FOCUS ON QUALITY OF LIFE.",
+          "isBlocked": false,
+          "_id": "60b67253d06a9d7d339dda81",
+          "categoryId": "60b66e2ad06a9d7d339dda7a",
+          "createdAt": "2021-06-01T17:45:55.258Z",
+          "updatedAt": "2021-06-01T17:45:55.258Z",
+          "__v": 0
+        },
+        {
+          "Subcategoryname": "NOT APPLICABLE",
+          "isBlocked": false,
+          "_id": "60b67268d06a9d7d339dda82",
+          "categoryId": "60b66e2ad06a9d7d339dda7a",
+          "createdAt": "2021-06-01T17:46:16.416Z",
+          "updatedAt": "2021-06-01T17:46:16.416Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60b66e2ad06a9d7d339dda7a",
+      "createdAt": "2021-06-01T17:28:10.428Z",
+      "updatedAt": "2021-06-10T09:24:00.884Z",
+      "__v": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="329" height="526.423" viewBox="0 0 329 526.423">
+  <defs>
+    <filter id="Path_235" x="60.398" y="0" width="231.866" height="526.423" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_511" data-name="Group 511" transform="translate(-5 -96.577)">
+    <g id="Group_272" data-name="Group 272" transform="translate(5 169)">
+      <text id="_" data-name=" " font-size="9" font-family="TimesNewRomanPSMT, Times New Roman"><tspan x="0" y="0"> </tspan></text>
+    </g>
+    <g id="Group_280" data-name="Group 280" transform="translate(5 179)">
+      <text id="_2" data-name=" " font-size="9" font-family="TimesNewRomanPSMT, Times New Roman"><tspan x="0" y="0"> </tspan></text>
+    </g>
+    <g id="standing-human-body-silhouette" transform="translate(10.631 178.577)">
+      <g id="Group_448" data-name="Group 448" transform="translate(59.768 0)">
+        <g transform="matrix(1, 0, 0, 1, -65.4, -82)" filter="url(#Path_235)">
+          <path id="Path_235-2" data-name="Path 235" d="M169.418,290.674c-.749,8.822,5.239,55.516,8.329,73.825,1.471,8.674,5.505,22.806,4.054,30.31-2.072,10.458-2.671,23.991-1.53,31.872.72,4.785,2.984,26.857-.256,34.93-1.7,4.234-4.8,25.928-4.8,25.928-8.095,20.438-3.526,19.433-3.526,19.433,2.506,3.075,6.8.242,6.8.242a4.2,4.2,0,0,0,5.535-.5c2.807,2.324,6.079-.286,6.079-.286,3.526,1.831,6.8-1.545,6.8-1.545,2.026,1.02,2.521-.269,2.521-.269,6.077-.389-3.391-19.837-3.391-19.837-2.267-17.466,2.25-27.187,2.25-27.187,14.795-43.875,15.547-55.518,9.633-72.053-1.666-4.773-2.087-6.663-1.321-8.736,1.772-4.783.48-24.021,2.642-31.66,4.169-14.733,8.282-52.1,10.426-69.532,2.881-23.484-10.2-54.971-10.2-54.971-2.866-12.814,1.336-58.468,1.336-58.468,5.867,9.13,5.643,25.246,5.643,25.246-.931,16.9,13.654,42.734,13.654,42.734,7.008,10.675,9.662,20.8,9.662,21.554,0,3.075-.673,10.52-.673,10.52l.269,6.483c.121,1.651,1.05,7.336.9,10.083-1.094,16.909,1.592,13.728,1.592,13.728,2.267,0,4.758-13.607,4.758-13.607,0,3.509-.858,14.014,1.035,17.976,2.265,4.726,3.93-.811,3.96-1.922.6-21.53,1.893-15.889,1.893-15.889,1.259,17.466,2.807,21.411,5.581,20.046,2.1-1,.18-20.96.18-20.96,3.6,11.855,6.331,13.743,6.331,13.743,5.941,4.172,2.267-7.351,1.442-9.633-4.4-12.124-4.532-16.325-4.532-16.325,5.493,10.894,9.633,10.49,9.633,10.49,5.357-1.71-4.682-17.136-10.564-24.526-3-3.765-6.873-8.807-8-11.8-1.831-5.071-3.213-21.374-3.213-21.374-.554-19.238-5.31-27.594-5.31-27.594-8.132-13.016-9.662-37.3-9.662-37.3L235,112.858c-2.851-27.961-23.454-28.163-23.454-28.163-20.825-3.1-23.723-9.827-23.723-9.827-4.411-6.348-1.89-18.516-1.89-18.516,3.659-2.977,5.071-10.879,5.071-10.879,6.077-4.66,5.779-11.478,2.972-11.4-2.252.059-1.742-1.806-1.742-1.806C196.038,1.567,168.789,0,168.789,0h-4.16s-27.261,1.567-23.467,32.254c0,0,.51,1.868-1.762,1.806-2.8-.074-3.061,6.745,2.994,11.4,0,0,1.41,7.9,5.071,10.879,0,0,2.521,12.168-1.89,18.516,0,0-2.888,6.727-23.723,9.827,0,0-20.638.2-23.444,28.163l-.389,40.992s-1.5,24.28-9.665,37.3c0,0-4.734,8.359-5.281,27.594,0,0-1.387,16.3-3.211,21.374-1.111,2.979-4.98,8.021-8.006,11.8-5.934,7.375-15.906,22.769-10.571,24.526,0,0,4.162.4,9.633-10.49,0,0-.113,4.172-4.5,16.325-.862,2.252-4.532,13.775,1.412,9.633,0,0,2.753-1.89,6.331-13.743,0,0-1.92,19.958.217,20.96,2.792,1.368,4.315-2.58,5.574-20.046,0,0,1.291-5.641,1.89,15.889.03,1.111,1.658,6.648,3.933,1.922,1.92-3.962,1.057-14.45,1.057-17.976,0,0,2.462,13.607,4.763,13.607,0,0,2.708,3.181,1.6-13.728-.18-2.762.789-8.432.909-10.083l.261-6.483s-.675-7.427-.675-10.52c0-.766,2.656-10.879,9.662-21.554,0,0,14.571-25.844,13.632-42.734,0,0-.2-16.116,5.665-25.246,0,0,4.164,45.652,1.343,58.468,0,0-13.107,31.487-10.217,54.971,2.129,17.481,6.234,54.8,10.414,69.532,2.183,7.624.892,26.857,2.642,31.66.789,2.087.375,4.009-1.321,8.736-5.882,16.535-5.133,28.181,9.662,72.053,0,0,4.554,9.721,2.252,27.187,0,0-9.453,19.447-3.4,19.837,0,0,.473,1.289,2.521.269,0,0,3.27,3.376,6.8,1.545,0,0,3.272,2.612,6.069.286a4.17,4.17,0,0,0,5.512.5s4.293,2.9,6.843-.241c0,0,4.532,1.005-3.536-19.433,0,0-3.09-21.668-4.793-25.928-3.248-8.07-.954-30.189-.261-34.93,1.116-7.925.517-21.426-1.523-31.872-1.493-7.486,2.55-21.621,4.044-30.31,3.068-18.292,9.081-64.988,8.329-73.825l2.484.872A5.039,5.039,0,0,0,169.418,290.674Z" transform="translate(9.63 6)" fill="#329997"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_250" data-name="Path 250" d="M10856.226,1221.416h-56.141v216.142h25.668" transform="translate(-10735.653 -1035)" fill="none" stroke="rgba(112,112,112,0.55)" stroke-width="1"/>
+    <path id="Path_251" data-name="Path 251" d="M10973.465,1402.672h12.95v243.387h-39.565" transform="translate(-10736 -1035)" fill="none" stroke="#b1b1b1" stroke-width="1"/>
+    <path id="Path_252" data-name="Path 252" d="M10969.562,1221.416l31.073.986v96.7h-8.065" transform="translate(-10736 -1035)" fill="none" stroke="#b1b1b1" stroke-width="1"/>
+    <path id="Path_253" data-name="Path 253" d="M10995.028,1321.133h19.183V1376.5h-8.174" transform="translate(-10736 -1035)" fill="none" stroke="#b1b1b1" stroke-width="1"/>
+    <path id="Path_254" data-name="Path 254" d="M11006.33,1379.338h22.867v57.118h-20.854" transform="translate(-10736 -1035)" fill="none" stroke="#b1b1b1" stroke-width="1"/>
+    <path id="Path_255" data-name="Path 255" d="M10858.717,1402.672h-12.15v114.2h24.911" transform="translate(-10732 -1035)" fill="none" stroke="#b1b1b1" stroke-width="1"/>
+    <path id="Path_256" data-name="Path 256" d="M10871.1,1522.716H10846v84.431h37.147" transform="translate(-10731.438 -1038.358)" fill="none" stroke="#b1b1b1" stroke-width="1"/>
+    <path id="Path_257" data-name="Path 257" d="M10883.127,1608.22h-37.315V1650.3h48.047" transform="translate(-10731.245 -1037.816)" fill="none" stroke="#b1b1b1" stroke-width="1"/>
+    <text id="_8_" data-name="8%" transform="translate(173 133)" fill="#fff" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">8%</tspan></text>
+    <text id="_50_" data-name="50%" transform="translate(169 259)" fill="#fff" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">50%</tspan></text>
+    <text id="_16_" data-name="16%" transform="translate(264 495)" fill="#b1b1b1" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">16%</tspan></text>
+    <text id="_0.7_" data-name="0.7%" transform="translate(302 381)" fill="#b1b1b1" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">0.7%</tspan></text>
+    <text id="_10.1_" data-name="10.1%" transform="translate(68 438)" fill="#b1b1b1" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">10.1%</tspan></text>
+    <text id="_5_" data-name="5%" transform="translate(33 288)" fill="#b1b1b1" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">5%</tspan></text>
+    <text id="_4.4_" data-name="4.4%" transform="translate(74 532)" fill="#b1b1b1" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">4.4%</tspan></text>
+    <text id="_1.5_" data-name="1.5%" transform="translate(75 597)" fill="#b1b1b1" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">1.5%</tspan></text>
+    <text id="_1.6_" data-name="1.6%" transform="translate(288 318)" fill="#b1b1b1" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">1.6%</tspan></text>
+    <text id="_2.7_" data-name="2.7%" transform="translate(271 239)" fill="#b1b1b1" font-size="13" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">2.7%</tspan></text>
+  </g>
+</svg>

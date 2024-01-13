@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusname": "NRS - 2002",
+      "statustype": "0",
+      "isBlocked": false,
+      "_id": "60bdcda6706a31127cf0c8b1",
+      "createdAt": "2021-06-07T07:41:26.824Z",
+      "updatedAt": "2021-06-11T05:55:35.860Z",
+      "__v": 0
+    },
+    {
+      "statusname": "MNA - NNI",
+      "statustype": "0",
+      "isBlocked": false,
+      "_id": "60bdcdb3706a31127cf0c8b2",
+      "createdAt": "2021-06-07T07:41:39.140Z",
+      "updatedAt": "2021-06-07T07:41:39.140Z",
+      "__v": 0
+    },
+    {
+      "statusname": "MUST",
+      "statustype": "0",
+      "isBlocked": false,
+      "_id": "60bdcdbb706a31127cf0c8b3",
+      "createdAt": "2021-06-07T07:41:47.877Z",
+      "updatedAt": "2021-06-07T07:41:47.877Z",
+      "__v": 0
+    },
+    {
+      "statusname": "STRONG - KIDS",
+      "statustype": "0",
+      "isBlocked": false,
+      "_id": "60bdcdc6706a31127cf0c8b4",
+      "createdAt": "2021-06-07T07:41:58.138Z",
+      "updatedAt": "2021-06-10T11:23:17.018Z",
+      "__v": 0
+    },{
+      "statusname": "NUTRIC - SCORE",
+      "statustype": "0",
+      "isBlocked": false,
+      "_id": "60bdcdc6706a31127cf0c8b9",
+      "createdAt": "2021-06-07T07:41:58.138Z",
+      "updatedAt": "2021-06-10T11:23:17.018Z",
+      "__v": 0
+    }
+  ]
+}

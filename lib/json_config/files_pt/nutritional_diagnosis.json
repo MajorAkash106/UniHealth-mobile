@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusname": "BASEADO NO IMC",
+      "statustype": "2",
+      "isBlocked": false,
+      "_id": "60bf116fc860be2e0a5ccf44",
+      "createdAt": "2021-06-08T06:42:55.785Z",
+      "updatedAt": "2021-06-08T06:42:55.785Z",
+      "__v": 0
+    },
+    {
+      "statusname": "OMS/CDC",
+      "statustype": "2",
+      "isBlocked": false,
+      "_id": "60bf1177c860be2e0a5ccf45",
+      "createdAt": "2021-06-08T06:43:03.615Z",
+      "updatedAt": "2021-06-08T06:43:03.615Z",
+      "__v": 0
+    },
+    {
+      "statusname": "GLIM",
+      "statustype": "2",
+      "isBlocked": false,
+      "_id": "60bf117ec860be2e0a5ccf46",
+      "createdAt": "2021-06-08T06:43:10.009Z",
+      "updatedAt": "2021-06-08T06:43:10.009Z",
+      "__v": 0
+    }
+  ]
+}

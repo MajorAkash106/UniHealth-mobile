@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="481.889" height="389.997" viewBox="0 0 481.889 389.997">
+  <g id="cardiogram-svgrepo-com_1_" data-name="cardiogram-svgrepo-com (1)" transform="translate(0 -5.5)">
+    <path id="Path_155" data-name="Path 155" d="M461.425,371.071H20.464A20.467,20.467,0,0,1,0,350.607V25.964A20.467,20.467,0,0,1,20.464,5.5H461.425a20.467,20.467,0,0,1,20.464,20.464V350.607A20.467,20.467,0,0,1,461.425,371.071Z" transform="translate(0 0)" fill="#3e465b"/>
+    <rect id="Rectangle_110" data-name="Rectangle 110" width="416" height="282" transform="translate(32.931 38.497)" fill="#556080"/>
+    <path id="Path_156" data-name="Path 156" d="M301.06,131.818,269.554,21.532a8.311,8.311,0,0,0-15.985,0l-27.95,98.123L210.548,94.339a8.311,8.311,0,0,0-15.022,1.628l-17.606,52.8L144.695,62.376a8.394,8.394,0,0,0-7.943-5.326,8.307,8.307,0,0,0-7.694,5.683l-23.039,69.085H4v16.617H112.01a8.291,8.291,0,0,0,7.876-5.683l17.606-52.8,33.225,86.391a8.324,8.324,0,0,0,7.76,5.326h.183a8.307,8.307,0,0,0,7.694-5.683l19.192-57.569,15.645,26.271a8.314,8.314,0,0,0,15.13-1.977L261.57,54.076,286.8,142.395a8.315,8.315,0,0,0,7.993,6.04H419.421V131.818Z" transform="translate(29.234 73.084)" fill="#2bda72"/>
+    <rect id="Rectangle_111" data-name="Rectangle 111" width="50" height="25" transform="translate(32.931 370.497)" fill="#363e4b"/>
+    <rect id="Rectangle_112" data-name="Rectangle 112" width="50" height="25" transform="translate(398.931 370.497)" fill="#363e4b"/>
+    <path id="Path_157" data-name="Path 157" d="M67.617,62.117H59.308a8.308,8.308,0,0,1,0-16.617h8.308a8.308,8.308,0,1,1,0,16.617Z" transform="translate(372.73 292.337)" fill="#a4e869"/>
+    <path id="Path_158" data-name="Path 158" d="M63.617,62.117H55.308a8.308,8.308,0,0,1,0-16.617h8.308a8.308,8.308,0,0,1,0,16.617Z" transform="translate(343.496 292.337)" fill="#48a0dc"/>
+    <path id="Path_159" data-name="Path 159" d="M59.617,62.117H51.308a8.308,8.308,0,0,1,0-16.617h8.308a8.308,8.308,0,1,1,0,16.617Z" transform="translate(314.262 292.337)" fill="#dd352e"/>
+  </g>
+</svg>

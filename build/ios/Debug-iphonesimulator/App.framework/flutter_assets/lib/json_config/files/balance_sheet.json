@@ -1,0 +1,96 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "optionname": "Glicose 5%",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c1044c9c9178b3112dc",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:28.903Z",
+      "updatedAt": "2021-06-03T04:35:28.903Z",
+      "__v": 0
+    },
+    {
+      "optionname": "Glicose 10%",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c2644c9c9178b3112dd",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:50.250Z",
+      "updatedAt": "2021-06-03T04:35:50.250Z",
+      "__v": 0
+    },
+    {
+      "optionname": "Glicose 5% + NaCl 0,9%",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c2644c9c9178b3112dd",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:50.250Z",
+      "updatedAt": "2021-06-03T04:35:50.250Z",
+      "__v": 0
+    },
+    {
+      "optionname": "Propofol",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c2644c9c9178b3112dd",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:50.250Z",
+      "updatedAt": "2021-06-03T04:35:50.250Z",
+      "__v": 0
+    },
+    {
+      "optionname": "Other IV fluids",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c2644c9c9178b3112dd",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:50.250Z",
+      "updatedAt": "2021-06-03T04:35:50.250Z",
+      "__v": 0
+    },
+    {
+      "optionname": "Urine",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c2644c9c9178b3112dd",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:50.250Z",
+      "updatedAt": "2021-06-03T04:35:50.250Z",
+      "__v": 0
+    },
+    {
+      "optionname": "Nasogastric Tube",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c2644c9c9178b3112dd",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:50.250Z",
+      "updatedAt": "2021-06-03T04:35:50.250Z",
+      "__v": 0
+    },
+    {
+      "optionname": "Drain",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c2644c9c9178b3112dd",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:50.250Z",
+      "updatedAt": "2021-06-03T04:35:50.250Z",
+      "__v": 0
+    },
+    {
+      "optionname": "Stoma",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c2644c9c9178b3112dd",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:50.250Z",
+      "updatedAt": "2021-06-03T04:35:50.250Z",
+      "__v": 0
+    }
+  ]
+}

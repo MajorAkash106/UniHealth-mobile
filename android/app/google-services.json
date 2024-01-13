@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79716993091",
+    "project_id": "unihealth-5140d",
+    "storage_bucket": "unihealth-5140d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79716993091:android:2719fc0abd111062702cf6",
+        "android_client_info": {
+          "package_name": "com.unihealth.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79716993091-1v6qd9vn78mmjo4dekrqo8sblnn1g488.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCG12TIS_ymzWOLhnriGba-2AeX4Cbphs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79716993091-1v6qd9vn78mmjo4dekrqo8sblnn1g488.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

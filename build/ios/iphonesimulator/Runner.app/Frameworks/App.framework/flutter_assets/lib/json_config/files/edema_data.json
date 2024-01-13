@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "title": "MILD / ANKLES (THIS MEANS THAT 1 KG SHOULD BE REDUCED FROM THE BODY WEIGHT)",
+      "type": "0",
+      "weight": "1",
+      "isBlocked": false,
+      "_id": "60c8e0239f75fb59f893cf4b",
+      "createdAt": "2021-06-15T17:15:15.054Z",
+      "updatedAt": "2021-06-15T17:15:15.054Z",
+      "__v": 0
+    },
+    {
+      "title": "MODERATE / THIGHS(5 KG SHOULD BE REQUCED FROM THE BODY WEIGHT)",
+      "type": "0",
+      "weight": "5",
+      "isBlocked": false,
+      "_id": "60c8e0699f75fb59f893cf4c",
+      "createdAt": "2021-06-15T17:16:25.341Z",
+      "updatedAt": "2021-06-15T17:16:25.341Z",
+      "__v": 0
+    },
+    {
+      "title": "SEVERE / ANASARCA (10 KG SHOULD BE REDUCED FROM THE BODY WEIGHT)",
+      "type": "0",
+      "weight": "10",
+      "isBlocked": false,
+      "_id": "60c8e0d49f75fb59f893cf4d",
+      "createdAt": "2021-06-15T17:18:12.328Z",
+      "updatedAt": "2021-06-15T17:18:12.328Z",
+      "__v": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202" height="172.724" viewBox="0 0 202 172.724">
+  <defs>
+    <filter id="medicine-briefcase" x="0" y="0" width="202" height="172.724" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#medicine-briefcase)">
+    <path id="medicine-briefcase-2" data-name="medicine-briefcase" d="M160.324,38.56H156.75V32.882a2.5,2.5,0,0,0-2.5-2.5h-14a2.5,2.5,0,0,0-2.5,2.5V38.56H125.333V32.219a17.6,17.6,0,0,0-17.581-17.581h-31.5A17.6,17.6,0,0,0,58.666,32.219V38.56H46.25V32.882a2.5,2.5,0,0,0-2.5-2.5h-14a2.5,2.5,0,0,0-2.5,2.5V38.56H23.676A23.676,23.676,0,0,0,0,62.236v83.45a23.676,23.676,0,0,0,23.676,23.676H160.324A23.676,23.676,0,0,0,184,145.686V62.236A23.676,23.676,0,0,0,160.324,38.56ZM68.666,32.219a7.59,7.59,0,0,1,7.581-7.581h31.5a7.59,7.59,0,0,1,7.581,7.581V38.56H68.666ZM92,146.606a42.645,42.645,0,1,1,42.645-42.645A42.645,42.645,0,0,1,92,146.606Zm32.015-32.172a2.5,2.5,0,0,1-2.5,2.5L105,116.952v16.514a2.5,2.5,0,0,1-2.5,2.5H81.5a2.5,2.5,0,0,1-2.5-2.5v-16.49l-16.49.015h0a2.5,2.5,0,0,1-2.5-2.5l-.019-21a2.5,2.5,0,0,1,2.5-2.5L79,90.972V74.456a2.5,2.5,0,0,1,2.5-2.5h21a2.5,2.5,0,0,1,2.5,2.5v16.49l16.49-.015h0a2.5,2.5,0,0,1,2.5,2.5Z" transform="translate(9 -8.64)" fill="#fff"/>
+  </g>
+</svg>

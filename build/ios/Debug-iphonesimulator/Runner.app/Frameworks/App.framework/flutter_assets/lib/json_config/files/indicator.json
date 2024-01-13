@@ -1,0 +1,12 @@
+{
+  "indicators": [
+    {
+      "name": "Nutritional Screening",
+      "id": 1
+    },
+    {
+      "name": "Diarrhea on EN",
+      "id": 2
+    }
+  ]
+}

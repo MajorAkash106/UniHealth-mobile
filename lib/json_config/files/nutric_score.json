@@ -1,0 +1,248 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusquestion": "Age",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "<50",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5453957935",
+          "statusquestionId": "60bf30ecc860be2e0a5453957935",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "50 - <75",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e0a5c13124",
+          "statusquestionId": "60bf3108c860be2e0a5c13124",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": ">75",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5ccf5232d",
+          "statusquestionId": "60bf3121c860be2e0a5ccf5232d",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "APACHE II",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "<15",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0a5c4545cf5b",
+          "statusquestionId": "60bf30ecc860be2e0a5c4545cf5b",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "15 - <20",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e0a57878ccf5c",
+          "statusquestionId": "60bf3108c860be2e0a57878ccf5c",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "20-28",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a98985ccf5d",
+          "statusquestionId": "60bf3121c860be2e0a98985ccf5d",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        },
+        {
+          "statusoption": ">28",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bf3121c860be2e0a5c90909cf5d",
+          "statusquestionId": "60bf3121c860be2e0a5c90909cf5d",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "SOFA",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "<6",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be26464e0a5ccf5b",
+          "statusquestionId": "60bf30ecc860be26464e0a5ccf5b",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "6 - <10",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e42240a5ccf5c",
+          "statusquestionId": "60bf3108c860be2e42240a5ccf5c",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": ">10",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf3121c860y6y6ybe2e0a5ccf5d",
+          "statusquestionId": "60bf3121c860y6y6ybe2e0a5ccf5d",
+          "createdAt": "2021-06-08T08:58:09.353Z",
+          "updatedAt": "2021-06-08T08:58:09.353Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "Number of Co-morbidities",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "0-1",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0f5f5ff5a5ccf5b",
+          "statusquestionId": "60bf30ecc860be2e0f5f5ff5a5ccf5b",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": ">2",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2e0ah6h6h65ccf5c",
+          "statusquestionId": "60bf3108c860be2e0ah6h6h65ccf5c",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "Days from hospital to ICU admission",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "0 - <1",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0aj7j7j75ccf5b",
+          "statusquestionId": "60bf30ecc860be2e0aj7j7j75ccf5b",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": ">1",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2ej77j7j70a5ccf5c",
+          "statusquestionId": "60bf3108c860be2ej77j7j70a5ccf5c",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "IL-6",
+      "statusId": "60bdcdbb706a31127cf0c8b3",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "0 - <400",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf30ecc860be2e0al9l9l95ccf5b",
+          "statusquestionId": "60bf30ecc860be2e0al9l9l95ccf5b",
+          "createdAt": "2021-06-08T08:57:16.217Z",
+          "updatedAt": "2021-06-08T08:57:16.217Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "> 400",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2eh7h7h7h70a5ccf5c",
+          "statusquestionId": "60bf3108c860be2eh7h7h7h70a5ccf5c",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Not available",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf3108c860be2eh7h7h7h70a66665ccf5c",
+          "statusquestionId": "60bf3108c860be2eh7h7h7h70a66665ccf5c",
+          "createdAt": "2021-06-08T08:57:44.055Z",
+          "updatedAt": "2021-06-08T08:57:44.055Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf301cc860be2e0a5ccf58",
+      "createdAt": "2021-06-08T08:53:48.727Z",
+      "updatedAt": "2021-06-08T08:53:48.727Z",
+      "__v": 0
+    }
+  ]
+}

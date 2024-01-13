@@ -1,0 +1,117 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "optionname": "TREATMENT PRESCRIBED BUT NOT ADMINISTRATED",
+      "description": "",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c1044c9c9178b3112dc",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:28.903Z",
+      "updatedAt": "2021-06-03T04:35:28.903Z",
+      "__v": 0
+    },
+    {
+      "optionname": "LAXATIVE NOT PRESCRIBED",
+      "description": "",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c2644c9c9178b3112dd",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:35:50.250Z",
+      "updatedAt": "2021-06-03T04:35:50.250Z",
+      "__v": 0
+    },
+    {
+      "optionname": "PROKINETIC NOT PRESCRIBED",
+      "description": "",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c3d44c9c9178b3112de",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:36:13.763Z",
+      "updatedAt": "2021-06-03T04:36:13.763Z",
+      "__v": 0
+    },
+    {
+      "optionname": "USE OF MADICATIONS RELATED TO NAUSEA/VOMITING/CONSTIPATION",
+      "description": "",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b85c5744c9c9178b3112df",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T04:36:39.857Z",
+      "updatedAt": "2021-06-03T04:36:39.857Z",
+      "__v": 0
+    },
+    {
+      "optionname": "USE OF LAXATIVE/CATHARTIC MEDICATION",
+      "description": "",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60b864e044c9c9178b3112e0",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-03T05:13:04.222Z",
+      "updatedAt": "2021-06-09T03:51:38.567Z",
+      "__v": 0
+    },
+    {
+      "optionname": "USE OF VASOACTIVE DRUGS",
+      "description": "",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60c03af4b1de893a06cc9e14",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-09T03:52:20.695Z",
+      "updatedAt": "2021-06-09T03:52:20.695Z",
+      "__v": 0
+    },
+    {
+      "optionname": "ADVERSE EVENT AFTER GI SURGERY",
+      "description": "",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60c03b04b1de893a06cc9e15",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-09T03:52:36.544Z",
+      "updatedAt": "2021-06-09T03:52:36.544Z",
+      "__v": 0
+    },
+    {
+      "optionname": "PATIENT DID NOT ACCEPT TREATMENT",
+      "description": "",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60c03b18b1de893a06cc9e16",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-09T03:52:56.202Z",
+      "updatedAt": "2021-06-09T03:52:56.202Z",
+      "__v": 0
+    },
+    {
+      "optionname": "NO OTHER CAUSE THAN PATIENT'S CONDITION WAS DETECTED",
+      "description": "",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60c03b5eb1de893a06cc9e18",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-09T03:54:06.092Z",
+      "updatedAt": "2021-06-09T03:54:06.092Z",
+      "__v": 0
+    },
+    {
+      "optionname": "OTHERS",
+      "description": "",
+      "persentage": "",
+      "isBlocked": false,
+      "_id": "60c03b81b1de893a06cc9e19",
+      "questionId": "60b851b244c9c9178b3112da",
+      "createdAt": "2021-06-09T03:54:41.340Z",
+      "updatedAt": "2021-06-09T03:54:41.340Z",
+      "__v": 0
+    }
+
+  ]
+}

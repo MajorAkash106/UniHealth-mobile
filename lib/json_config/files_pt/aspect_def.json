@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusname": "ALERGIAS ALIMENTARES/ AVERSÕES",
+      "statustype": "1",
+      "isBlocked": false,
+      "_id": "60bf10f6c860be2e0a5ccf41",
+      "createdAt": "2021-06-08T06:40:54.945Z",
+      "updatedAt": "2021-06-08T06:40:54.945Z",
+      "__v": 0
+    },
+    {
+      "statusname": "PREFERÊNCIAS ALIMENTARES",
+      "statustype": "1",
+      "isBlocked": false,
+      "_id": "60bf1116c860be2e0a5ccf42",
+      "createdAt": "2021-06-08T06:41:26.430Z",
+      "updatedAt": "2021-06-08T06:41:26.430Z",
+      "__v": 0
+    },
+    {
+      "statusname": "MANIFESTAÇÕES CLÍNICAS DE DEFICIÊNCIAS NUTRICIONAIS",
+      "statustype": "1",
+      "isBlocked": false,
+      "_id": "60bf1140c860be2e0a5ccf43",
+      "createdAt": "2021-06-08T06:42:08.214Z",
+      "updatedAt": "2021-06-08T06:42:08.214Z",
+      "__v": 0
+    }
+  ]
+}

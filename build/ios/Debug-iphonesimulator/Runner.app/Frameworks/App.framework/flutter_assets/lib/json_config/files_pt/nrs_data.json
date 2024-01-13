@@ -1,0 +1,238 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusquestion": "O IMC é < 20,5 kg/m2?",
+      "statusId": "60bdcda6706a31127cf0c8b1",
+      "isBlocked": false,
+      "type": "0",
+      "options": [
+        {
+          "statusoption": "Sim",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bdcf83706a31127cf0c8c0",
+          "statusquestionId": "60bdcdff706a31127cf0c8b5",
+          "createdAt": "2021-06-07T07:49:23.218Z",
+          "updatedAt": "2021-06-07T07:49:23.218Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Não",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bdcf89706a31127cf0c8c1",
+          "statusquestionId": "60bdcdff706a31127cf0c8b5",
+          "createdAt": "2021-06-07T07:49:29.057Z",
+          "updatedAt": "2021-06-07T07:49:29.057Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdcdff706a31127cf0c8b5",
+      "createdAt": "2021-06-07T07:42:55.864Z",
+      "updatedAt": "2021-06-07T07:42:55.864Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "O paciente perdeu peso nos últimos 3 meses?",
+      "statusId": "60bdcda6706a31127cf0c8b1",
+      "isBlocked": false,
+      "type": "0",
+      "options": [
+        {
+          "statusoption": "Sim",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bdcfc0706a31127cf0c8c4",
+          "statusquestionId": "60bdce0c706a31127cf0c8b6",
+          "createdAt": "2021-06-07T07:50:24.500Z",
+          "updatedAt": "2021-06-07T07:50:24.500Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Não",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bdcfc5706a31127cf0c8c5",
+          "statusquestionId": "60bdce0c706a31127cf0c8b6",
+          "createdAt": "2021-06-07T07:50:29.180Z",
+          "updatedAt": "2021-06-07T07:50:29.180Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdce0c706a31127cf0c8b6",
+      "createdAt": "2021-06-07T07:43:08.693Z",
+      "updatedAt": "2021-06-07T07:43:08.693Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "O paciente teve sua ingestão dietética reduzida na última semana?",
+      "statusId": "60bdcda6706a31127cf0c8b1",
+      "isBlocked": false,
+      "type": "0",
+      "options": [
+        {
+          "statusoption": "Sim",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bdcfed706a31127cf0c8c6",
+          "statusquestionId": "60bdce19706a31127cf0c8b7",
+          "createdAt": "2021-06-07T07:51:09.339Z",
+          "updatedAt": "2021-06-07T07:51:09.339Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Não",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bdcff2706a31127cf0c8c7",
+          "statusquestionId": "60bdce19706a31127cf0c8b7",
+          "createdAt": "2021-06-07T07:51:14.957Z",
+          "updatedAt": "2021-06-07T07:51:14.957Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdce19706a31127cf0c8b7",
+      "createdAt": "2021-06-07T07:43:21.264Z",
+      "updatedAt": "2021-06-07T07:43:21.264Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "Gravidade da doença (aumento das necessidades nutricionais)",
+      "statusId": "60bdcda6706a31127cf0c8b1",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Necessidades nutricionais normais (Escore 0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bdd01b706a31127cf0c8c8",
+          "statusquestionId": "60bdce26706a31127cf0c8b8",
+          "createdAt": "2021-06-07T07:51:55.033Z",
+          "updatedAt": "2021-07-20T04:31:07.910Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Fratura de quadril, pacientes crônicos, em particular com complicações agudas: cirrose, DPOC, hemodiálise, diabetes, oncologia. Paciente fraco, mas deambula. (Escore 1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bdd02a706a31127cf0c8c9",
+          "statusquestionId": "60bdce26706a31127cf0c8b8",
+          "createdAt": "2021-06-07T07:52:10.025Z",
+          "updatedAt": "2021-07-20T04:33:26.102Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Cirurgia abdominal de grande porte, AVC. Pneumonia grave, doença hematológica maligna (leucemia, linfoma). Paciente confinado ao leito. (Escore 2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bdd030706a31127cf0c8ca",
+          "statusquestionId": "60bdce26706a31127cf0c8b8",
+          "createdAt": "2021-06-07T07:52:16.456Z",
+          "updatedAt": "2021-07-20T04:34:15.389Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Trauma,transplante de medula óssea, paciente em terapia intensiva (APACHE >10). (Escore 3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60f652e28e7cc42baff42276",
+          "statusquestionId": "60bdce26706a31127cf0c8b8",
+          "createdAt": "2021-07-20T04:36:50.089Z",
+          "updatedAt": "2021-07-20T04:36:50.089Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdce26706a31127cf0c8b8",
+      "createdAt": "2021-06-07T07:43:34.457Z",
+      "updatedAt": "2021-07-20T04:29:36.714Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "Estado Nutricional",
+      "statusId": "60bdcda6706a31127cf0c8b1",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "Estado nutricional normal (Escore 0)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bdd04f706a31127cf0c8cb",
+          "statusquestionId": "60bdce31706a31127cf0c8b9",
+          "createdAt": "2021-06-07T07:52:47.908Z",
+          "updatedAt": "2021-06-07T07:52:47.908Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Perda de peso > 5% em 3 meses ou ingestão alimentar na última semana entre 50-75% das necessidades nutricionais. (Escore 1)",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bdd05e706a31127cf0c8cc",
+          "statusquestionId": "60bdce31706a31127cf0c8b9",
+          "createdAt": "2021-06-07T07:53:02.985Z",
+          "updatedAt": "2021-07-20T04:22:43.330Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Perda de peso > 5% em 2 meses ou IMC entre 18,5 – 20,5 + condição geral prejudicada (enfraquecida) ou ingestão alimentar na última semana entre 25-60% das necessidades nutricionais. (Escore 2)",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bdd155706a31127cf0c8cd",
+          "statusquestionId": "60bdce31706a31127cf0c8b9",
+          "createdAt": "2021-06-07T07:57:09.826Z",
+          "updatedAt": "2021-07-20T04:25:03.984Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Perda de peso > 5% em 1 mês (> 15% em 3 meses) ou IMC < 18,5 + condição geral prejudicada (enfraquecida) ou ingestão alimentar na última semana entre 0-25% das necessidades nutricionais. (Escore 3)",
+          "score": "3",
+          "isBlocked": false,
+          "_id": "60bdd169706a31127cf0c8ce",
+          "statusquestionId": "60bdce31706a31127cf0c8b9",
+          "createdAt": "2021-06-07T07:57:29.371Z",
+          "updatedAt": "2021-06-07T07:57:29.371Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bdce31706a31127cf0c8b9",
+      "createdAt": "2021-06-07T07:43:45.197Z",
+      "updatedAt": "2021-07-20T04:21:33.743Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "O paciente está gravemente doente? (ex. em terapia intensiva)",
+      "statusId": "60bdcda6706a31127cf0c8b1",
+      "isBlocked": false,
+      "type": "0",
+      "options": [
+        {
+          "statusoption": "Sim",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60f127a58e7cc42baff42204",
+          "statusquestionId": "60f127658e7cc42baff42203",
+          "createdAt": "2021-07-16T06:31:01.264Z",
+          "updatedAt": "2021-07-16T06:31:01.264Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "Não",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60f127b38e7cc42baff42205",
+          "statusquestionId": "60f127658e7cc42baff42203",
+          "createdAt": "2021-07-16T06:31:15.012Z",
+          "updatedAt": "2021-07-16T06:31:15.012Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60f127658e7cc42baff42203",
+      "createdAt": "2021-07-16T06:29:57.593Z",
+      "updatedAt": "2021-07-16T06:29:57.593Z",
+      "__v": 0
+    }
+  ]
+}

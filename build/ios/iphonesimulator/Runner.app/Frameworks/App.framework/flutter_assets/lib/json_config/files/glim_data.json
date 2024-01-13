@@ -1,0 +1,412 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "title": "WEIGHT LOSS (%)",
+      "statustype": "0",
+      "isBlocked": false,
+      "question": "",
+      "options": [
+        {
+          "optionname": "WEIGHT LOSS ABSENT",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60dd455f092eb87c3f1ff012",
+          "questionId": "60dd4547092eb87c3f1ff011",
+          "createdAt": "WEIGHT LOSS (%)",
+          "updatedAt": "2021-08-11T12:50:03.395Z",
+          "__v": 0
+        },
+        {
+          "optionname": "5–10% WITHIN THE PAST 6 MONTHS",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60dd4579092eb87c3f1ff013",
+          "questionId": "60dd4547092eb87c3f1ff011",
+          "createdAt": "2021-07-01T04:32:57.157Z",
+          "updatedAt": "2021-08-11T12:50:46.105Z",
+          "__v": 0
+        },
+        {
+          "optionname": "> 10% WITHIN THE PAST 6 MONTHS",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60dd459b092eb87c3f1ff014",
+          "questionId": "60dd4547092eb87c3f1ff011",
+          "createdAt": "2021-07-01T04:33:31.150Z",
+          "updatedAt": "2021-08-11T12:57:44.218Z",
+          "__v": 0
+        },
+        {
+          "optionname": "10- 20 % BEYOND 6 MONTHS",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60dd45b0092eb87c3f1ff015",
+          "questionId": "60dd4547092eb87c3f1ff011",
+          "createdAt": "2021-07-01T04:33:52.554Z",
+          "updatedAt": "2021-08-11T13:03:32.812Z",
+          "__v": 0
+        },
+        {
+          "optionname": "> 20 % BEYOND 6 MONTHS",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60dd45bd092eb87c3f1ff016",
+          "questionId": "60dd4547092eb87c3f1ff011",
+          "createdAt": "2021-07-01T04:34:05.700Z",
+          "updatedAt": "2021-08-11T13:04:17.336Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd4547092eb87c3f1ff011_",
+      "createdAt": "WEIGHT LOSS (%)",
+      "updatedAt": "2021-07-01T04:32:07.626Z",
+      "__v": 0
+    },
+    {
+      "title": "LOW BODY MASS INDEX - BMI (kg/m2) ",
+      "statustype": "0",
+      "isBlocked": false,
+      "question": "IS THE PATIENT ASIAN?",
+      "options": [
+        {
+          "optionname": "Yes",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4625092eb87c3f1ff018",
+          "questionId": "60dd45fc092eb87c3f1ff017",
+          "createdAt": "2021-07-01T04:35:49.453Z",
+          "updatedAt": "2021-07-01T04:35:49.453Z",
+          "__v": 0
+        },
+        {
+          "optionname": "No",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd462d092eb87c3f1ff019",
+          "questionId": "60dd45fc092eb87c3f1ff017",
+          "createdAt": "2021-07-01T04:35:57.761Z",
+          "updatedAt": "2021-07-01T04:35:57.761Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd45fc092eb87c3f1ff017_",
+      "createdAt": "2021-07-01T04:35:08.746Z",
+      "updatedAt": "2021-07-01T04:35:08.746Z",
+      "__v": 0
+    },
+    {
+      "title": "REDUCED MUSCLE MASS",
+      "statustype": "0",
+      "isBlocked": false,
+      "question": "ASMI (kg/m2):",
+      "options": [
+        {
+          "optionname": "DXA <7 (MALES) OR <5.4 (FEMALES)",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd46ac092eb87c3f1ff01b",
+          "questionId": "60dd466f092eb87c3f1ff01a",
+          "createdAt": "2021-07-01T04:38:04.789Z",
+          "updatedAt": "2021-07-01T04:38:04.789Z",
+          "__v": 0
+        },
+        {
+          "optionname": "BIA <7 (MALES) OR <5.7 (FEMALES) ",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd46db092eb87c3f1ff01c",
+          "questionId": "60dd466f092eb87c3f1ff01a",
+          "createdAt": "2021-07-01T04:38:51.896Z",
+          "updatedAt": "2021-07-01T04:38:51.896Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd466f092eb87c3f1ff01a",
+      "createdAt": "REDUCED MUSCLE MASS",
+      "updatedAt": "2021-07-01T04:37:03.533Z",
+      "__v": 0
+    },
+    {
+      "title": "REDUCED MUSCLE MASS",
+      "statustype": "0",
+      "isBlocked": false,
+      "question": "FFMI (kg/m2):",
+      "options": [
+        {
+          "optionname": "<17 (MALES) OR <15 (FEMALES)",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4725092eb87c3f1ff01e",
+          "questionId": "60dd46fc092eb87c3f1ff01d",
+          "createdAt": "2021-07-01T04:40:05.730Z",
+          "updatedAt": "2021-07-01T04:40:05.730Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd46fc092eb87c3f1ff01d",
+      "createdAt": "REDUCED MUSCLE MASS",
+      "updatedAt": "2021-07-01T04:39:24.188Z",
+      "__v": 0
+    },
+    {
+      "title": "REDUCED MUSCLE MASS",
+      "statustype": "0",
+      "isBlocked": false,
+      "question": "% MAMC",
+      "options": [
+        {
+          "optionname": "70-90% (MILD TO MODERATE)",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4797092eb87c3f1ff020",
+          "questionId": "60dd4770092eb87c3f1ff01f",
+          "createdAt": "2021-07-01T04:41:59.845Z",
+          "updatedAt": "2021-07-01T04:41:59.845Z",
+          "__v": 0
+        },
+        {
+          "optionname": "< 70% (SEVERE)",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd47a8092eb87c3f1ff021",
+          "questionId": "60dd4770092eb87c3f1ff01f",
+          "createdAt": "< 70% (SEVERE)",
+          "updatedAt": "2021-07-01T04:42:16.785Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd4770092eb87c3f1ff01f_",
+      "createdAt": "REDUCED MUSCLE MASS",
+      "updatedAt": "2021-07-01T04:41:20.993Z",
+      "__v": 0
+    },
+    {
+      "title": "REDUCED FOOD INTAKE",
+      "statustype": "1",
+      "isBlocked": false,
+      "question": "",
+      "options": [
+        {
+          "optionname": "≤50% OF ER >1 WEEK, OR ANY REDUCTION FOR >2 WEEKS, OR ANY CHRONIC GI CONDITION THAT ADVERSELY IMPACTS FOOD ASSIMILATION OR ABSORPTION",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60dd4828092eb87c3f1ff023",
+          "questionId": "60dd47fe092eb87c3f1ff022",
+          "createdAt": "2021-07-01T04:44:24.386Z",
+          "updatedAt": "2021-08-11T12:48:16.563Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd47fe092eb87c3f1ff022",
+      "createdAt": "2021-07-01T04:43:42.057Z",
+      "updatedAt": "2021-07-01T04:43:42.057Z",
+      "__v": 0
+    },
+    {
+      "title": "INFLAMMATION",
+      "statustype": "1",
+      "isBlocked": false,
+      "question": "",
+      "options": [
+        {
+          "optionname": "ACUTE DISEASE/INJURY",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4868092eb87c3f1ff025",
+          "questionId": "60dd483f092eb87c3f1ff024",
+          "createdAt": "2021-07-01T04:45:28.966Z",
+          "updatedAt": "2021-07-01T04:45:28.966Z",
+          "__v": 0
+        },
+        {
+          "optionname": "CHRONIC DISEASE-RELATED",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd488c092eb87c3f1ff026",
+          "questionId": "60dd483f092eb87c3f1ff024",
+          "createdAt": "2021-07-01T04:46:04.155Z",
+          "updatedAt": "2021-07-01T04:46:04.155Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd483f092eb87c3f1ff024_",
+      "createdAt": "2021-07-01T04:44:47.866Z",
+      "updatedAt": "2021-07-01T04:44:47.866Z",
+      "__v": 0
+    },
+    {
+      "title": "WEIGHT LOSS (%)",
+      "statustype": "2",
+      "isBlocked": false,
+      "question": "STAGE 1 / MODERATE MALNUTRITION",
+      "options": [
+        {
+          "optionname": "5–10% WITHIN THE PAST 6 MONTHS",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4912092eb87c3f1ff028",
+          "questionId": "60dd48da092eb87c3f1ff027",
+          "createdAt": "2021-07-01T04:48:18.517Z",
+          "updatedAt": "2021-07-01T04:48:18.517Z",
+          "__v": 0
+        },
+        {
+          "optionname": "10 - 20 % BEYOND 6 MONTHS",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd492f092eb87c3f1ff029",
+          "questionId": "60dd48da092eb87c3f1ff027",
+          "createdAt": "2021-07-01T04:48:47.317Z",
+          "updatedAt": "2021-07-01T04:48:47.317Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd48da092eb87c3f1ff027_",
+      "createdAt": "WEIGHT LOSS (%)",
+      "updatedAt": "2021-07-01T04:47:22.201Z",
+      "__v": 0
+    },
+    {
+      "title": "WEIGHT LOSS (%)",
+      "statustype": "2",
+      "isBlocked": false,
+      "question": "STAGE 2 / SEVERE MALNUTRITION",
+      "options": [
+        {
+          "optionname": "> 10% WITHIN THE PAST 6 MONTHS",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4996092eb87c3f1ff02b",
+          "questionId": "60dd495d092eb87c3f1ff02a",
+          "createdAt": "2021-07-01T04:50:30.876Z",
+          "updatedAt": "2021-07-01T04:50:30.876Z",
+          "__v": 0
+        },
+        {
+          "optionname": "> 20 % BEYOND 6 MONTHS",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd49ad092eb87c3f1ff02c",
+          "questionId": "60dd495d092eb87c3f1ff02a",
+          "createdAt": "2021-07-01T04:50:53.690Z",
+          "updatedAt": "2021-07-01T04:50:53.690Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd495d092eb87c3f1ff02a_",
+      "createdAt": "WEIGHT LOSS (%)",
+      "updatedAt": "2021-07-01T04:49:33.140Z",
+      "__v": 0
+    },
+    {
+      "title": "LOW BODY MASS INDEX - BMI (kg/m2)",
+      "statustype": "2",
+      "isBlocked": false,
+      "question": "STAGE 1 / MODERATE MALNUTRITION",
+      "options": [
+        {
+          "optionname": "BMI <20 IF <70 YEARS, OR <22 IF ≥70 YEARS",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4a3d092eb87c3f1ff02e",
+          "questionId": "60dd4a07092eb87c3f1ff02d",
+          "createdAt": "2021-07-01T04:53:17.950Z",
+          "updatedAt": "2021-07-01T04:53:17.950Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd48da092eb87c3f1ff027_",
+      "createdAt": "2021-07-01T04:52:23.341Z",
+      "updatedAt": "2021-07-01T04:52:23.341Z",
+      "__v": 0
+    },
+    {
+      "title": "LOW BODY MASS INDEX - BMI (kg/m2)",
+      "statustype": "2",
+      "isBlocked": false,
+      "question": "STAGE 2 / SEVERE MALNUTRITION",
+      "options": [
+        {
+          "optionname": "<18.5 IF <70 YEARS, OR <20 IF ≥70 YEARS",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4aa6092eb87c3f1ff030",
+          "questionId": "60dd4a75092eb87c3f1ff02f",
+          "createdAt": "2021-07-01T04:55:02.789Z",
+          "updatedAt": "2021-07-01T04:55:02.789Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd495d092eb87c3f1ff02a_",
+      "createdAt": "2021-07-01T04:54:13.724Z",
+      "updatedAt": "2021-07-01T04:54:13.724Z",
+      "__v": 0
+    },
+    {
+      "title": "REDUCED MUSCLE MASS",
+      "statustype": "2",
+      "isBlocked": false,
+      "question": "",
+      "options": [
+        {
+          "optionname": "MILD TO MODERATE DEFICIT ASSESSED BY DXA, BIA, CT OR MR",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4b16092eb87c3f1ff032",
+          "questionId": "60dd4aee092eb87c3f1ff031",
+          "createdAt": "2021-07-01T04:56:54.509Z",
+          "updatedAt": "2021-07-01T04:56:54.509Z",
+          "__v": 0
+        },
+        {
+          "optionname": "SEVERE DEFICIT ASSESSED BY DXA, BIA, CT OR MRI",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4b30092eb87c3f1ff033_",
+          "questionId": "60dd4aee092eb87c3f1ff031",
+          "createdAt": "2021-07-01T04:57:20.191Z",
+          "updatedAt": "2021-07-01T04:57:20.191Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd4aee092eb87c3f1ff031",
+      "createdAt": "REDUCED MUSCLE MASS",
+      "updatedAt": "2021-07-01T04:56:14.289Z",
+      "__v": 0
+    },
+    {
+      "title": "REDUCED MUSCLE MASS",
+      "statustype": "2",
+      "isBlocked": false,
+      "question": "% MAMC",
+      "options": [
+        {
+          "optionname": " 70-90% (MILD TO MODERATE)",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60dd4b95092eb87c3f1ff035",
+          "questionId": "60dd4b4f092eb87c3f1ff034",
+          "createdAt": "2021-07-01T04:59:01.942Z",
+          "updatedAt": "2021-07-01T04:59:01.942Z",
+          "__v": 0
+        },
+        {
+          "optionname": "< 70% (SEVERE)",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60deac0a092eb87c3f1ff063",
+          "questionId": "60dd4b4f092eb87c3f1ff034",
+          "createdAt": "< 70% (SEVERE)",
+          "updatedAt": "2021-07-02T06:02:50.976Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60dd4770092eb87c3f1ff01f_",
+      "createdAt": "REDUCED MUSCLE MASS",
+      "updatedAt": "2021-07-01T04:57:51.585Z",
+      "__v": 0
+    }
+  ]
+}

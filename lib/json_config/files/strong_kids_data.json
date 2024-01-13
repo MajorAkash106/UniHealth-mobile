@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusquestion": "Is there an underlying illness with risk for Malnutrition (shown below) or expected major surgery?",
+      "statusId": "_60bdcdc6706a31127cf0c8b410",
+      "isBlocked": false,
+      "type": "0",
+      "options": [
+        {
+          "statusoption": "(Score=2) YES",
+          "score": "2",
+          "isBlocked": false,
+          "_id": "60bf352cc860be2e0a5ccf6d",
+          "statusquestionId": "60bf3255c860be2e0a5ccf63",
+          "createdAt": "2021-06-08T09:15:24.792Z",
+          "updatedAt": "2021-07-19T06:28:11.593Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "(Score=0) NO",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf353ec860be2e0a5ccf6e",
+          "statusquestionId": "60bf3255c860be2e0a5ccf63",
+          "createdAt": "2021-06-08T09:15:42.844Z",
+          "updatedAt": "2021-07-19T06:28:54.330Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf3255c860be2e0a5ccf63",
+      "createdAt": "2021-06-08T09:03:17.139Z",
+      "updatedAt": "2021-06-28T11:11:38.402Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "Is the patient in a poor nutritional status judged with subjective clinical assessment: loss of subcutaneous fat and/or loss of muscle mass and/or hollow face?",
+      "statusId": "60bdcdc6706a31127cf0c8b4",
+      "isBlocked": false,
+      "type": "0",
+      "options": [
+        {
+          "statusoption": "(Score=1) YES",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf34dfc860be2e0a5ccf6b",
+          "statusquestionId": "60bf32fdc860be2e0a5ccf64",
+          "createdAt": "2021-06-08T09:14:07.875Z",
+          "updatedAt": "2021-07-19T06:30:23.861Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "(Score=0) NO",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf34f1c860be2e0a5ccf6c",
+          "statusquestionId": "60bf32fdc860be2e0a5ccf64",
+          "createdAt": "2021-06-08T09:14:25.084Z",
+          "updatedAt": "2021-07-19T06:31:40.012Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf32fdc860be2e0a5ccf64",
+      "createdAt": "2021-06-08T09:06:05.947Z",
+      "updatedAt": "2021-06-08T09:06:05.947Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "Is one of the following items present?",
+      "statusId": "60bdcdc6706a31127cf0c8b4_",
+      "isBlocked": false,
+      "type": "0",
+      "options": [
+        {
+          "statusoption": "(Score=1) YES",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf3447c860be2e0a5ccf67",
+          "statusquestionId": "60bf3356c860be2e0a5ccf65",
+          "createdAt": "2021-06-08T09:11:35.052Z",
+          "updatedAt": "2021-07-19T06:33:31.631Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "(Score=0) NO",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf3483c860be2e0a5ccf68",
+          "statusquestionId": "60bf3356c860be2e0a5ccf65",
+          "createdAt": "2021-06-08T09:12:35.563Z",
+          "updatedAt": "2021-07-19T06:32:33.863Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf3356c860be2e0a5ccf65",
+      "createdAt": "2021-06-08T09:07:34.822Z",
+      "updatedAt": "2021-06-28T11:25:36.986Z",
+      "__v": 0
+    },
+    {
+      "statusquestion": "Is there weight loss (all ages) and/or no increase in weight/height (infants < 1year) during the last few week-months?",
+      "statusId": "60bdcdc6706a31127cf0c8b4",
+      "isBlocked": false,
+      "type": "0",
+      "options": [
+        {
+          "statusoption": "(Score=0) NO",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60bf34a9c860be2e0a5ccf69",
+          "statusquestionId": "60bf341ac860be2e0a5ccf66",
+          "createdAt": "2021-06-08T09:13:13.620Z",
+          "updatedAt": "2021-07-19T06:34:52.970Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "(Score=1) YES",
+          "score": "1",
+          "isBlocked": false,
+          "_id": "60bf34b7c860be2e0a5ccf6a",
+          "statusquestionId": "60bf341ac860be2e0a5ccf66",
+          "createdAt": "2021-06-08T09:13:27.230Z",
+          "updatedAt": "2021-07-19T06:34:15.765Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60bf341ac860be2e0a5ccf66",
+      "createdAt": "2021-06-08T09:10:50.994Z",
+      "updatedAt": "2021-06-08T09:10:50.994Z",
+      "__v": 0
+    }
+  ]
+}

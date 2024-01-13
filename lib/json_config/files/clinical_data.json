@@ -1,0 +1,208 @@
+{
+  "success": true,
+  "message": "Record found",
+  "data": [
+    {
+      "statusquestion": "CLINICAL MANIFESTATIONS OF NUTRIENT DEFICIENCIES",
+      "statusId": "60bf1140c860be2e0a5ccf43",
+      "isBlocked": false,
+      "type": "1",
+      "options": [
+        {
+          "statusoption": "MUSCLE AND FAT WASTING, WEAKNESS (POSSIBLE DEFICIT OF CALORIES, PROTEIN, OR BOTH)",
+          "score": "",
+          "isBlocked": false,
+          "_id": "60c83592dd3e8c186031b045",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:07:30.465Z",
+          "updatedAt": "2021-06-15T05:07:30.465Z",
+          "__v": 0
+        },
+        {
+          "statusoption": " PERIPHERAL EDEMA (POSSIBLE DEFICIT OF THIAMINE (HEART FAILURE), PROTEIN (LOW ONCOTIC PRESSURE))",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c835d4dd3e8c186031b04a",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:08:36.108Z",
+          "updatedAt": "2021-06-15T05:08:36.108Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "CHEILOSIS, ANGULAR STOMATITIS (POSSIBLE DEFICIT OF RIBOFLAVIN, NIACIN, FOLATE, VITAMIN B12)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c83604dd3e8c186031b053",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:09:24.347Z",
+          "updatedAt": "2021-06-15T05:09:24.347Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "LOSS OF VIBRATORY OR POSITION SENSE, FATIGUE (POSSIBLE DEFICIT OF VITAMIN B12)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c83620dd3e8c186031b057",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:09:52.694Z",
+          "updatedAt": "2021-06-15T05:09:52.694Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "DERMATITIS (SUN-EXPOSED SKIN), DIARRHEA, DEMENTIA (POSSIBLE DEFICIT OF NIACIN (PELLAGRA))",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c8362ddd3e8c186031b05a",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:10:05.604Z",
+          "updatedAt": "2021-06-15T05:10:05.604Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "SYMMETRIC MOTOR OR SENSORY DYSFUNCTION, ATAXIA, NYSTAGMUS, HEART FAILURE, MENTAL STATUS CHANGES OR CONFUSION (POSSIBLE DEFICIT OF THIAMINE (BERIBERI))",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c83642dd3e8c186031b05f",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:10:26.312Z",
+          "updatedAt": "2021-06-15T05:10:26.312Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "BLEEDING GUMS, PETECHIAE, ECCHYMOSIS (POSSIBLE DEFICIT OF VITAMIN C, VITAMIN K)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c83652dd3e8c186031b061",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:10:42.090Z",
+          "updatedAt": "2021-06-15T05:10:42.090Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "POOR WOUND HEALING (POSSIBLE DEFICIT OF CALORIES, PROTEIN, VITAMIN C, VITAMIN A, ZINC, OTHER MICRONUTRIENTS )",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c83662dd3e8c186031b065",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:10:58.334Z",
+          "updatedAt": "2021-06-15T05:10:58.334Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "BONE PAIN (POSSIBLE DEFICIT OF VITAMIN D (OSTEOMALACIA))",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c83670dd3e8c186031b068",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:11:12.610Z",
+          "updatedAt": "2021-06-15T05:11:12.610Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "FOLLICULAR HYPERKERATOSIS, NIGHT BLINDNESS, BITOT’S SPOTS (POSSIBLE DEFICIT OF VITAMIN A)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c8367edd3e8c186031b06b",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:11:26.846Z",
+          "updatedAt": "2021-06-15T05:11:26.846Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "FLAKY, WHITISH DERMATITIS (POSSIBLE DEFICIT OF ESSENTIAL FATTY ACIDS)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c8368ddd3e8c186031b06d",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:11:41.074Z",
+          "updatedAt": "2021-06-15T05:11:41.074Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "SPARSE HAIR, EASILY PLUCKABLE HAIR, OR BOTH (POSSIBLE DEFICIT OF ZINC, PROTEIN)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c8369bdd3e8c186031b070",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:11:55.822Z",
+          "updatedAt": "2021-06-15T05:11:55.822Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "PALE SKIN, NAIL SPOONING (KOILONYCHIA) (POSSIBLE DEFICIT OF IRON)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c836abdd3e8c186031b073",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:12:11.366Z",
+          "updatedAt": "2021-06-15T05:12:11.366Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "LOSS OF TASTE; REDDISH DERMATITIS AROUND NOSE, MOUTH, AND GROIN; HAIR LOSS (POSSIBLE DEFICIT OF ZINC)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c836b8dd3e8c186031b076",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:12:24.343Z",
+          "updatedAt": "2021-06-15T05:12:24.343Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "PERIPHERAL NEUROPATHIES, GAIT ABNORMALITIES, WEAKNESS, FATIGUE (POSSIBLE DEFICIT OF COPPER)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c836c5dd3e8c186031b079",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:12:37.994Z",
+          "updatedAt": "2021-06-15T05:12:37.994Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "MUSCLE PAIN, HEART FAILURE (CARDIOMYOPATHY) (POSSIBLE DEFICIT OF SELENIUM)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c836d3dd3e8c186031b07c",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:12:51.807Z",
+          "updatedAt": "2021-06-15T05:12:51.807Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "PARESTHESIAS, CARPAL PEDAL SPASM (POSSIBLE DEFICIT OF CALCIUM, MAGNESIUM, PHOSPHORUS, OR POTASSIUM)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c83702dd3e8c186031b083",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:13:38.216Z",
+          "updatedAt": "2021-06-15T05:13:38.216Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "GLOSSITIS (DISCOLORED, SMOOTH, OR PAINFUL TONGUE) (POSSIBLE DEFICIT OF FOLATE, VITAMIN B12, NIACIN, RIBOFLAVIN, THIAMINE, IRON)",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c83712dd3e8c186031b084",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:13:54.801Z",
+          "updatedAt": "2021-06-15T05:16:45.260Z",
+          "__v": 0
+        },
+        {
+          "statusoption": "NOT OBSERVED",
+          "score": "0",
+          "isBlocked": false,
+          "_id": "60c837d6dd3e8c186031b09f",
+          "statusquestionId": "60c8335bdd3e8c186031b024",
+          "createdAt": "2021-06-15T05:17:10.824Z",
+          "updatedAt": "2021-06-15T05:17:10.824Z",
+          "__v": 0
+        }
+      ],
+      "_id": "60c8335bdd3e8c186031b024",
+      "createdAt": "2021-06-15T04:58:03.848Z",
+      "updatedAt": "2021-06-15T04:58:03.848Z",
+      "__v": 0
+    }
+  ]
+}
